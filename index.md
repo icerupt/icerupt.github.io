@@ -5,15 +5,17 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Firstly,
+Welcome to my blog, which is about solutions to many online judge.
+BTW, this blog will be in Chinese.
 
-## Let us test syntax!
+## hello, world!
 
-```c
+```cpp
+#include <iostream>
+
 int main()
 {
-	return 0;
+	std::cout << "hello, world!" << std::endl;
 }
 ```
-
 
