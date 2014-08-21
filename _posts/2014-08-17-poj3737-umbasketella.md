@@ -35,7 +35,7 @@ $$ {\mathrm d v \over \mathrm d r}  = 0 $$
 
 解得的\\(r\\)即为最大体积下底面的半径
 <div class="answer">
-$$ r = \sqrt{s \over 4 \pi} \nonumber$$
+\\( r = \sqrt{s \over 4 \pi} \\)
 </div>
 
 再求出\\(h\\), \\(v\\)即可
