@@ -6,28 +6,39 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-题意：
-	已知一个圆锥体的表面积（包括底面），求最大体积及对应圆锥体的高和底面半径。
-题解：
-	r为底圆半径，s为圆锥表面积（包括底面），h为圆锥高，v为圆锥体积，l为母线。
-	首先易知
-		$$ s = \pi r l + \pi  r^2 \label{area} $$
-		$$ l = \sqrt{h^2 + r^2} \label{lateral}$$
-	将(\ref{lateral})带入(\ref{lateral})可得
-		$$ h = {\sqrt{s^2 - 2 \pi s r^2} \over \pi r \label{height}} $$
-	又
-		$$ v = {1 \over 3} \pi h r^2 \label{volume}$$
-	将(\ref{height})带入(\ref{volume})可得
-		$$ v = {1 \over 3} r \sqrt{s^2 - 2 \pi s r^2} \label{volume2} $$
-	两边对r求导，得
-		$$ {\mathrm d v \over \mathrm d r}  = {1 \over 3} \sqrt{s^2 - 2 \pi s r^2} - {2 \over 3} {\pi s r \over \sqrt{s^2 - 2 \pi s r^2}} $$
-	解零点
-		$$ {\mathrm d v \over \mathrm d r}  = 0 $$
-	解得的r即为最大体积下底面的半径
-		$$ r = \sqrt{s \over 4 \pi} $$
-	再求出h, v即可
-		h = {\sqrt{s^2 - 2 \pi s r^2} \over {\pi r}}
-		v = {r \over 3}  \sqrt{s^2 - 2 \pi s r^2}
+
+### 题意
+已知一个圆锥体的表面积（包括底面），求最大体积及对应圆锥体的高和底面半径。
+
+### 题解
+\(r\)为底圆半径，\(s\)为圆锥表面积（包括底面），\(h\)为圆锥高，
+\(v\)为圆锥体积，\(l\)为母线。
+
+首先易知
+$$ s = \pi r l + \pi  r^2 \label{area} $$
+$$ l = \sqrt{h^2 + r^2} \label{lateral}$$
+
+将(\ref{lateral})带入(\ref{area})可得
+$$ h = {\sqrt{s^2 - 2 \pi s r^2} \over \pi r \label{height}} $$
+
+又
+$$ v = {1 \over 3} \pi h r^2 \label{volume}$$
+
+将(\ref{height})带入(\ref{volume})可得
+$$ v = {1 \over 3} r \sqrt{s^2 - 2 \pi s r^2} \label{volume2} $$
+
+两边对r求导，得
+$$ {\mathrm d v \over \mathrm d r}  = {1 \over 3} \sqrt{s^2 - 2 \pi s r^2} - {2 \over 3} {\pi s r \over \sqrt{s^2 - 2 \pi s r^2}} $$
+
+解零点
+$$ {\mathrm d v \over \mathrm d r}  = 0 $$
+
+解得的r即为最大体积下底面的半径
+$$ r = \sqrt{s \over 4 \pi} $$
+
+再求出h, v即可
+$$ h = {\sqrt{s^2 - 2 \pi s r^2} \over {\pi r}} $$
+$$ v = {r \over 3}  \sqrt{s^2 - 2 \pi s r^2} $$
 
 
 ```cpp
