@@ -27,7 +27,7 @@ int main()
 ```
 
 
-$$ s = \pi r l + \pi  r^2 $$
+$$ s = \pi r l + \pi  r^2 \eqno{(1)} $$
 $$ v = {1 \over 3} \pi h r^2 $$
 $$ l = \sqrt{h^2 + r^2} $$
 $$ h = {\sqrt{s^2 - 2 \pi s r^2} \over \pi r} $$
