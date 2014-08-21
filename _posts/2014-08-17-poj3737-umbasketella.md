@@ -3,7 +3,7 @@ layout: post
 title: "[poj3737] UmBasketella"
 description: ""
 category: 
-tags: []
+tags: ["数学"]
 ---
 {% include JB/setup %}
 
@@ -27,19 +27,22 @@ $$ v = {1 \over 3} \pi h r^2 \label{volume}$$
 将(\ref{height})带入(\ref{volume})可得
 $$ v = {1 \over 3} r \sqrt{s^2 - 2 \pi s r^2} \label{volume2} $$
 
-两边对r求导，得
+两边对\\(r\\)求导，得
 $$ {\mathrm d v \over \mathrm d r}  = {1 \over 3} \sqrt{s^2 - 2 \pi s r^2} - {2 \over 3} {\pi s r \over \sqrt{s^2 - 2 \pi s r^2}} $$
 
 解零点
 $$ {\mathrm d v \over \mathrm d r}  = 0 $$
 
-解得的r即为最大体积下底面的半径
+解得的\\(r\\)即为最大体积下底面的半径
 $$ r = \sqrt{s \over 4 \pi} $$
 
-再求出h, v即可
+再求出\\(h\\), \\(v\\)即可
+<div class="answer">
 $$ h = {\sqrt{s^2 - 2 \pi s r^2} \over {\pi r}} $$
 $$ v = {r \over 3}  \sqrt{s^2 - 2 \pi s r^2} $$
+</div>
 
+### code
 
 ```cpp
 #include <iostream>
