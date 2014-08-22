@@ -45,7 +45,7 @@ $$ h = {\sqrt{s^2 - 2 \pi s r^2} \over {\pi r}} \nonumber $$
 $$ v = {r \over 3}  \sqrt{s^2 - 2 \pi s r^2} \nonumber $$
 </div>
 
-### code
+### 实现
 
 ```cpp
 #include <iostream>
