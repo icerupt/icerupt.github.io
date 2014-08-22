@@ -35,13 +35,9 @@ $$ {\mathrm d v \over \mathrm d r}  = 0 $$
 
 解得的\\(r\\)即为最大体积下底面的半径
 <div class="answer">
-\\( r = \sqrt{s \over 4 \pi} \\)
-</div>
-
-再求出\\(h\\), \\(v\\)即可
-<div class="answer">
-$$ h = {\sqrt{s^2 - 2 \pi s r^2} \over {\pi r}} \nonumber$$
-$$ v = {r \over 3}  \sqrt{s^2 - 2 \pi s r^2} \nonumber$$
+$$ r = \sqrt{s \over 4 \pi} \nonumber $$
+$$ h = {\sqrt{s^2 - 2 \pi s r^2} \over {\pi r}} \nonumber $$
+$$ v = {r \over 3}  \sqrt{s^2 - 2 \pi s r^2} \nonumber $$
 </div>
 
 ### code
