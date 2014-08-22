@@ -16,6 +16,7 @@ Str是Y的字母串表示发，A..Z表示1..26，可以看成26进制。
 [cjxgm用c++11的正则库实现][2], codeforces似乎不支持，仅供围观。
 
 ### 实现
+```cpp
 #include <cstdio>
 #include <string>
 using namespace std;
@@ -48,9 +49,8 @@ void print(int c)
 	}
 }
 
-```cpp
 ```
 
-[1]: http://en.cppreference.com/w/cpp/io/c/fscanf
+[1]: http://man7.org/linux/man-pages/man3/scanf.3.html
 [2]: https://gist.github.com/cjxgm/13ffd989f97e8e271be6
 
