@@ -20,8 +20,8 @@ $$ \mathrm{Ans} = \Big\lceil {m \over a} \Big\rceil \cdot \Big\lceil {n \over a}
 int ceil(int x, int y)
 {
 	// ceil可以有用以下三种实现，实测效率相当
-	// return x/y + (x % y != 0);
-	// return (x + y - 1)/y;
+	return x/y + (x % y != 0);
+	return (x + y - 1)/y;
 	return x/y + !!(x%y);
 }
 ```
