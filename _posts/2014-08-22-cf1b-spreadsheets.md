@@ -3,7 +3,7 @@ layout: post
 title: "[cf1b] Spreadsheets"
 description: ""
 category: "codeforces"
-tags: ["字符串"，"模拟"]
+tags: ["字符串", "模拟"]
 ---
 {% include JB/setup %}
 
