@@ -26,12 +26,11 @@ $$ \mathrm{Ans} = \min(minimize(f_i), minimize(g_i)) \nonumber $$
 
 ```cpp
 #include <iostream>
-#include <cmath>
-#include <cstring>
+#include <algorithm>
 using namespace std;
 
 const int N = 1001;
-const int INF = 1 << 30;
+const int INF = ~(1 << 31);
 int f[N][N], g[N][N], a[N][N];
 char tf[N][N], tg[N][N];
 
@@ -56,6 +55,9 @@ void print(int x, int y, char (*t)[N])
 
 int main()
 {
+
+	fill(f[0], f[0] + N*N, INF);
+	fill(g[0], g[0] + N*N, INF);
 	int n, px;
 	cin >> n;
 	bool zero = false;
@@ -67,8 +69,7 @@ int main()
 				px = i;
 			}
 		}
-	memset(f, 127, sizeof(f));
-	memset(g, 127, sizeof(g));
+
 	f[0][0] = dis(a[0][0], 2); g[0][0] = dis(a[0][0], 5);
 	for (int i = 0; i != n; ++i)
 		for (int j = 0; j != n; ++j) {
