@@ -3,7 +3,7 @@ layout: post
 title: "[cf1c] Ancient Berland Circus"
 description: ""
 category: "codeforces"
-tags: ["几何", "数学", "有待深入研究","codeforces"]
+tags: ["几何", "数学", "有待深入研究", "codeforces"]
 ---
 {% include JB/setup %}
 
