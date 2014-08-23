@@ -30,19 +30,19 @@ $$ r = {a \over 2 \sin(A)} \nonumber$$
 对应一个圆心角，想要最后边数最少，就要使圆心角尽量大。又最后正多边形每条边对
 应的圆心角是通过划分现在三角形三边对应的圆心角得到的，且一定是整数倍划分。容
 易看出最后的圆心角大小就是现在三角形三边对应圆心角的最大公约数，故最后的边数\\(n\\)
-$$ n = {2 \pi \over \mathrm{gcd}_{\mathbb R}(2A, 2B, 2C)} \nonumber $$
+$$ n = {2 \pi \over \mathrm{gcd}\_{\mathbb R}(2A, 2B, 2C)} \nonumber $$
 也即
-$$ n = {\pi \over \mathrm{gcd}_{\mathbb R}(A, B, C)} \nonumber $$
+$$ n = {\pi \over \mathrm{gcd}\_{\mathbb R}(A, B, C)} \nonumber $$
 最后的面积\\(s\\)为
 <div class="em">
 $$ s = {n \cdot {1 \over 2} \sin({2 \pi \over n}) r^2} \nonumber $$
 </div>
 
-值得注意的是\\(\mathrm{gcd}_{\mathbb R}(A, B, C)\\)中的
+值得注意的是\\(\mathrm{gcd}\_{\mathbb R}(A, B, C)\\)中的
 \\(A, B, C \in \mathbb R\\)
 
 事实上只要\\(A \over B\\)是有理数就能求出他们的[实数最大公约数][1]。
-应用于实数的\\(\mathrm{gcd}_{\mathbb R}\\)的目的是求出实数\\(g\\)使得
+应用于实数的\\(\mathrm{gcd}\_{\mathbb R}\\)的目的是求出实数\\(g\\)使得
 \\(A = m g, B = n g\\)，其中\\(m, n\\)都是整数。
 
 我们可以通过有理数的特例来加以理解。只要将两个有理数通分成同分母的分数再求分子的gcd

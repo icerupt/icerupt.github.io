@@ -3,7 +3,7 @@ layout: post
 title: "[cf2b] The least round way"
 description: ""
 category: "codeforces"
-tags: ["动态规划","数学"]
+tags: ["动态规划", "数学", "codeforces"]
 ---
 {% include JB/setup %}
 
