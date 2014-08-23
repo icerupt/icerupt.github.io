@@ -14,7 +14,7 @@ tags: ["字符串", "模拟", "codeforces"]
 
 ### 题解
 模拟就好。读入的时候可以用 [std::sscanf][1] 实现匹配。
-[cjxgm用c++11的正则库实现][2], codeforces 似乎不支持，仅供围观。
+[cjxgm 用 c++11 的正则库实现][2], codeforces 似乎不支持，仅供围观。
 
 ### 实现
 ```cpp
