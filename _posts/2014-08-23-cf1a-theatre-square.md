@@ -8,7 +8,7 @@ tags: ["codeforces", "数学"]
 {% include JB/setup %}
 
 ### 题意
-已知一个\\(n \times m\\)的矩形，用\\(a \times a\\)的正方形覆盖，
+已知一个 \\(n \times m\\) 的矩形，用 \\(a \times a\\) 的正方形覆盖，
 问最少需要几块正方形。
 
 ### 题解
@@ -27,7 +27,7 @@ int ceil_div(int x, int y)
 	return x/y + !!(x%y);
 }
 ```
-浮点数相除的话用[std::ceil][1]。
+浮点数相除的话用 [std::ceil][1]。
 
 ### 实现
 

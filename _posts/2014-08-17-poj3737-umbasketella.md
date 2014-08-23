@@ -29,7 +29,7 @@ $$ v = {1 \over 3} r \sqrt{s^2 - 2 \pi s r^2} \label{volume2} $$
 
 ![v](/assets/img/poj3737-v.png)
 <div class="figure-comment">
-方程(\ref{volume2}), 由图易知只有一个合理的最值点
+方程 (\ref{volume2}), 由图易知只有一个合理的最值点
 </div>
 
 两边对 \\(r\\) 求导，得

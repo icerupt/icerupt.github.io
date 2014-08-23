@@ -3,17 +3,17 @@ layout: post
 title: "[cf1b] Spreadsheets"
 description: ""
 category: "codeforces"
-tags: ["字符串", "模拟"]
+tags: ["字符串", "模拟", "codeforces"]
 ---
 {% include JB/setup %}
 
 ### 题意
-将题意中描述的两种定位表格的方式相互转化。一种是StrX, 另一种是RXCY。其中
-Str是Y的字母串表示发，A..Z表示1..26，可以看成26进制。
+将题意中描述的两种定位表格的方式相互转化。一种是 StrX, 另一种是 RXCY。其中
+Str是Y的字母串表示发，A..Z 表示 1..26，可以看成 26 进制。
 
 ### 题解
-模拟就好。读入的时候可以用[std::sscanf][1]实现匹配。
-[cjxgm用c++11的正则库实现][2], codeforces似乎不支持，仅供围观。
+模拟就好。读入的时候可以用 [std::sscanf][1] 实现匹配。
+[cjxgm用c++11的正则库实现][2], codeforces 似乎不支持，仅供围观。
 
 ### 实现
 ```cpp
