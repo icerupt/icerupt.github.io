@@ -19,7 +19,6 @@ tags: ["字符串", "模拟", "codeforces"]
 ### 实现
 ```cpp
 #include <cstdio>
-#include <string>
 using namespace std;
 
 void print(int c);
