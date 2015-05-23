@@ -17,7 +17,7 @@ tags: ["动态规划", "数学", "codeforces"]
 又由于决定尾零个数的是由因子 2 和 5 较小的那个因子数决定的。
 不妨记 \\(f_i\\) 是某条路径 \\(i\\) 中 2 的个数, \\(g_i\\) 是某条
 路径 \\(i\\) 中 5 的个数，容易分析出最后的结果为
-$$ \mathrm{Ans} = \min \left\{ \min \left\{ f_i \right\},\min \left\{ g_i \right\} \right\} \nonumber $$
+$$ \mathrm{Ans} = \min \left\\\{ \min \left\\\{ f_i \right\\\},\min \left\\\{ g_i \right\\\} \right\\\} \nonumber $$
 
 以上的分析有一个问题，由于是非负整数，所以 0 本身也能产生尾零，所以要对
 路径中有零的情况单独处理。
