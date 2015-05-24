@@ -9,14 +9,15 @@ tags: ["位运算", "常数优化"]
 
 {% raw %}
 ### 题意
-求一个\\(5\times 5\\)的矩阵中，点数为7的且其中\\(J\\)比\\(H\\)多的联通块的个数，
+求一个\\(5\times 5\\)的矩阵中，点数为\\(7\\)的且其中\\(J\\)比\\(H\\)多的联通块的个数，
 一个点相领的点是与上下左右四个点。
 
 ### 题解
 只要暴力枚举取了哪7个点，并判断其中\\(J, H\\)的个数以及是不是联通。
 各种位运算优化啊，代码中的`bit_count_one`是计算二进制中1的个数。
-最后发现只要把queue改成raw array效率就大大提升了。
-另外poj的服务器真的渣啊，在[BZOJ][1]上用queue也能过。
+~~最后发现只要把queue改成raw array效率就大大提升了。~~
+(update: 经高人提醒，queue只不过是[deque][1]的adaptor)
+另外poj的服务器真的渣啊，在[BZOJ][2]上用queue也能过。
 花了好多时间。。。。
 
 ### 实现
@@ -119,7 +120,8 @@ int main()
 }
 
 ```
-[1]: http://www.lydsy.com/JudgeOnline/problem.php?id=1675
+[1]: http://en.cppreference.com/w/cpp/container/deque
+[2]: http://www.lydsy.com/JudgeOnline/problem.php?id=1675
 
 {% endraw %}
 
