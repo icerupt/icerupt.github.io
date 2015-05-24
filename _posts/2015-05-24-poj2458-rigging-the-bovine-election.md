@@ -16,8 +16,7 @@ tags: ["位运算", "常数优化"]
 只要暴力枚举取了哪7个点，并判断其中\\(J, H\\)的个数以及是不是联通。
 各种位运算优化啊，代码中的`bit_count_one`是计算二进制中1的个数。
 
-~~最后发现只要把queue改成raw array效率就大大提升了。~~
-
+<del>最后发现只要把queue改成raw array效率就大大提升了。</del>
 (update: 经高人提醒，queue只不过是[deque][1]的adaptor)
 
 另外poj的服务器真的渣啊，在[BZOJ][2]上用queue也能过。
