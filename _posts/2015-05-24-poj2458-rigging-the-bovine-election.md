@@ -20,13 +20,12 @@ tags: ["位运算", "常数优化"]
 
 ### 实现
 ```cpp
-{{"
 #include <iostream>
 #include <queue>
 using namespace std;
 
 struct xy { int x, y; };
-int const opt[4][2] = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+int const opt[4][2] = {{"{{0, 1}, {1, 0}, {0, -1}, {-1, 0}};" | escape }}
 int graph[26][26];
 int n = 5, m = 5, map;
 
@@ -117,7 +116,6 @@ int main()
 	}
 	cout << ans << "\n";
 }
-" | escape }}
 
 ```
 [1]: http://www.lydsy.com/JudgeOnline/problem.php?id=1675
