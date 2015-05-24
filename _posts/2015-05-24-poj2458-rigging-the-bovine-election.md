@@ -3,7 +3,7 @@ layout: post
 title: "[poj2458] Rigging the Bovine Election"
 description: ""
 category: "poj"
-tags: ["位运算"，“常数优化”]
+tags: ["位运算", "常数优化"]
 ---
 {% include JB/setup %}
 
