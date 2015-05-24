@@ -7,6 +7,7 @@ tags: ["位运算", "常数优化"]
 ---
 {% include JB/setup %}
 
+{% raw %}
 ### 题意
 求一个\\(5\*5\\)的矩阵中，点数为7的且其中\\(J\\)比\\(H\\)多的联通块的个数，
 一个点相领的点是与上下左右四个点。
@@ -20,7 +21,6 @@ tags: ["位运算", "常数优化"]
 
 ### 实现
 ```cpp
-{{ "{%
 #include <iostream>
 #include <queue>
 using namespace std;
@@ -117,8 +117,9 @@ int main()
 	}
 	cout << ans << "\n";
 }
-" }} %}
 
 ```
 [1]: http://www.lydsy.com/JudgeOnline/problem.php?id=1675
+
+{% endraw %}
 
