@@ -20,6 +20,7 @@ tags: ["位运算", "常数优化"]
 
 ### 实现
 ```cpp
+{{"
 #include <iostream>
 #include <queue>
 using namespace std;
@@ -116,6 +117,7 @@ int main()
 	}
 	cout << ans << "\n";
 }
+" | escape }}
 
 ```
 [1]: http://www.lydsy.com/JudgeOnline/problem.php?id=1675
