@@ -23,7 +23,6 @@ tags: ["数学", "线性不定方程", "有待深入研究", "细节"]
 ```
 error: redefinition of 'y1' as different kind of symbol
 
-
 /usr/include/bits/mathcalls.h:241:13: note: previous definition is here
 	__MATHCALL (y1, , (_Mdouble_));
 ```
