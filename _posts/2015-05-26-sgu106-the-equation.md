@@ -14,7 +14,19 @@ tags: ["数学", "线性不定方程", "有待深入研究", "细节"]
 整数解(即解\\(x, y\\)都是整数)的个数。
 
 ### 题解
-唉，深夜刷题伤不起啊，虽然理论上挺水的，各种细节啊。不过收获也不少，睡醒了再补上吧。
+唉，深夜刷题伤不起啊，虽然理论上挺水的，各种细节啊。不过收获也不少。<del>睡醒了再补上吧。</del>
+
+对于\\(a b=0\\)特殊判断就好，不然就先用[extended euclid][1]求得一组解，然后判断在区间内的整点个数就ok。
+然后就是很傻的把[round][2]当作[floor][3]用。。顺带一提，c++里，浮点型向int的转化，不是floor而是截断取整。
+
+最后就是一个奇葩错误：
+```
+error: redefinition of 'y1' as different kind of symbol
+/usr/include/bits/mathcalls.h:241:13: note: previous definition is here
+	__MATHCALL (y1, , (_Mdouble_));
+```
+我定义了一个叫y1的变量，恩，\\(using namespace std;\\)了。。我们当然管不着厂商起什么变量名，
+接下来试着都打\\(std::\\)看看手感吧。
 
 ### 实现
 ```cpp
@@ -73,12 +85,9 @@ int main()
 			double t1 = (x1 - x)/(double)bp, t2 = (x2 - x)/(double)bp;
 			if (bp < 0) { k1 = ceil(t2); k2 = floor(t1); }
 			else        { k1 = ceil(t1); k2 = floor(t2); }
-			if (k1 > k2) { cout << "0\n"; return 0; }
 			t1 = (y_1 - y)/(double)ap;  t2 = (y2 - y)/(double)ap;
 			if (ap > 0) { kk1 = ceil(-t2); kk2 = floor(-t1); }
 			else        { kk1 = ceil(-t1); kk2 = floor(-t2); }
-
-			if (kk1 > kk2) { cout << "0\n"; return 0; }
 			ans = intersect(k1, k2, kk1, kk2);
 		}
 	}
@@ -86,6 +95,10 @@ int main()
 }
 
 ```
+
+[1]: http://en.wikipedia.org/wiki/Extended_Euclidean_algorithm
+[2]: http://en.cppreference.com/w/cpp/numeric/math/round
+[3]: http://en.cppreference.com/w/cpp/numeric/math/floor
 
 {% endraw %}
 
