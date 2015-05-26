@@ -22,11 +22,13 @@ tags: ["数学", "线性不定方程", "有待深入研究", "细节"]
 最后就是一个奇葩错误：
 ```
 error: redefinition of 'y1' as different kind of symbol
+
+
 /usr/include/bits/mathcalls.h:241:13: note: previous definition is here
 	__MATHCALL (y1, , (_Mdouble_));
 ```
-我定义了一个叫y1的变量，恩，\\(using namespace std;\\)了。。我们当然管不着厂商起什么变量名，
-接下来试着都打\\(std::\\)看看手感吧。
+我定义了一个叫y1的变量，恩，`using namespace std;` 了。。我们当然管不着厂商起什么变量名，
+接下来试着都打`std::`看看手感吧。
 
 ### 实现
 ```cpp
