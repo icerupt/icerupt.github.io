@@ -2,7 +2,7 @@
 layout: post
 title: "[sgu121] Bridges painting"
 description: ""
-category: sgu
+category: "sgu"
 tags: ["图论", "构造", "欧拉回路"，"细节"]
 ---
 {% include JB/setup %}
@@ -37,7 +37,7 @@ tags: ["图论", "构造", "欧拉回路"，"细节"]
 
 实现也是比较坑爹。每次去一条欧拉路这个可以参考代码，只要找到第一个不能再拓展的点，
 就把 dfs 栈都弹掉。为了实现方便，最后再 check 一下来判断是否无解。这道题数据范围比较小，
-直接临接表(vector)就行，可以参考这道题 hdu5348, [传送门][1]。
+直接临接表(vector)就行，更复杂的例子可以参考这道题 hdu5348, [传送门][1]。
 
 ### 实现
 

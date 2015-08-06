@@ -2,7 +2,7 @@
 layout: post
 title: "[poj3737] UmBasketella"
 description: ""
-category: poj
+category: "poj"
 tags: ["数学", "poj"]
 ---
 {% include JB/setup %}
