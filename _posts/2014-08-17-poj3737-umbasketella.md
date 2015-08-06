@@ -35,10 +35,10 @@ $$ v = {1 \over 3} r \sqrt{s^2 - 2 \pi s r^2} \label{volume2} $$
 </div>
 
 两边对 \\(r\\) 求导，得
-$$ {\mathrm d v \over \mathrm d r}  = {1 \over 3} \sqrt{s^2 - 2 \pi s r^2} - {2 \over 3} {\pi s r \over \sqrt{s^2 - 2 \pi s r^2}} $$
+$$ {\mathrm d v \over \mathrm d r} = {1 \over 3} \sqrt{s^2 - 2 \pi s r^2} - {2 \over 3} {\pi s r \over \sqrt{s^2 - 2 \pi s r^2}} $$
 
 解驻点
-$$ {\mathrm d v \over \mathrm d r}  = 0 $$
+$$ {\mathrm d v \over \mathrm d r} = 0 $$
 
 解得的 \\(r\\) 即为最大体积下底面的半径，再利用 \\(r\\) 推出 \\(h\\) 和 \\(v\\) 即可
 <div class="em">
