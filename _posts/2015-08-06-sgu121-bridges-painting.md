@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[sgu121] Bridges painting"
+title: "\[sgu121\] Bridges painting"
 description: ""
 category: "sgu"
 tags: ["图论", "构造", "欧拉回路"，"细节"]
