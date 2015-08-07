@@ -3,17 +3,19 @@ layout: post
 title: "[sgu106] The equation"
 description: ""
 category: "sgu"
-tags: ["数学", "线性不定方程", "有待深入研究", "细节"]
+tags: ["数学", "线性不定方程", "有待深入研究", "细节", "编译错误"]
 ---
 {% include JB/setup %}
 
 {% raw %}
 
 ### 题意
+
 对于方程 \\(a x + b y + c = 0, \\) 已知整数\\(a, b, c,\\) 求方程满足 \\(x1 \leq x \leq x2\\) 且 \\(y1 \leq y \leq y2\\) 的条件下，
 整数解(即解 \\(x, y\\) 都是整数)的个数。
 
 ### 题解
+
 唉，深夜刷题伤不起啊，虽然理论上挺水的，各种细节啊。不过收获也不少。<del>睡醒了再补上吧。</del>
 
 对于\\(a b=0\\)特殊判断就好，不然就先用[extended euclid][1]求得一组解，然后判断在区间内的整点个数就ok。
@@ -32,6 +34,7 @@ error: redefinition of 'y1' as different kind of symbol
 接下来试着都打 `std::` 看看手感吧。
 
 ### 实现
+
 ```cpp
 #include <iostream>
 #include <cmath>
