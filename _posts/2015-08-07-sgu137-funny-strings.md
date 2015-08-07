@@ -18,10 +18,12 @@ tags: ["论文题", "欧拉串"]
 这是论文题啊，满足这个互质的条件一定能且只能构造唯一的欧拉串。
 请膜拜这篇[论文][1]。
 
-一些性质还是很好推的，比如所有数字只会差 \\(1\\)
+一些性质还是很好推的，比如所有数字只会差 \\(1\\)。
 
 ```
-\(a \times b \)
+
+$ a \times b $
+$$ a \times b $$
 
 function E-STRING (n; k :Z+) : Stringover N;
 if k < n → return(exp(E-STRING (n − k; k)))
