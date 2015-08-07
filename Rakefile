@@ -70,6 +70,21 @@ task :post do
     post.puts "tags: #{tags}"
     post.puts "---"
     post.puts "{% include JB/setup %}"
+    post.puts "{% raw %}"
+    post.puts ""
+    post.puts "### 题意"
+    post.puts ""
+    post.puts ""
+    post.puts "### 题解"
+    post.puts ""
+    post.puts ""
+    post.puts "### 实现"
+    post.puts ""
+    post.puts "```cpp"
+    post.puts "```"
+    post.puts ""
+	post.puts "{% endraw %}"
+    post.puts ""
   end
 end # task :post
 

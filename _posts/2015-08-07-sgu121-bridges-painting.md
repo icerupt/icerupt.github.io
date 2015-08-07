@@ -3,10 +3,10 @@ layout: post
 title: "[sgu121] Bridges painting"
 description: ""
 category: "sgu"
-tags: ["图论", "构造", "欧拉回路"，"细节"]
+tags: ["图论", "构造", "欧拉回路", "细节"]
 ---
 {% include JB/setup %}
-
+{% raw %}
 
 ### 题意
 
@@ -169,4 +169,5 @@ int main()
 ```
 [1]: http://acm.hdu.edu.cn/showproblem.php?pid=5348
 
+{% endraw %}
 
