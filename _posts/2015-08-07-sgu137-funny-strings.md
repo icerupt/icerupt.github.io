@@ -29,9 +29,9 @@ tags: ["论文题", "欧拉串"]
 
 ```
 function E-STRING (n; k:Z+) : Stringover N*;
-if k < n ⟶   return(exp(E-STRING (n − k; k)))
-[] k = n ⟶   return(‘1’);
-[] k > n ⟶   return(inc(E-STRING (n; k − n)))
+if k < n ⟶ return(exp(E-STRING (n − k; k)))
+[] k = n ⟶ return(‘1’);
+[] k > n ⟶ return(inc(E-STRING (n; k − n)))
 ```
 
 看完论文，这题就水了...
