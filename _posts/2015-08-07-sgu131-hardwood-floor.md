@@ -11,7 +11,7 @@ tags: ["状态压缩动态规划", "覆盖"]
 
 ### 题意
 
-问在一个 \\(M \times N (1 \leq M \leq 9, 1 \leq N \leq) \\) 的地板上用 rectangles(\\(2 \times 1\\)) 以及 corners(\\(2 \times 2\\) 的方块去掉 \\(1 \times 1\\) 的方块)，
+问在一个 \\(M \times N (1 \leq M \leq 9, 1 \leq N \leq) \\) 的地板上用 rectangles(\\(2 \times 1\\) 的方块) 以及 corners(\\(2 \times 2\\) 的方块去掉一个 \\(1 \times 1\\) 的方块)，
 这两种木板铺满，有多少种方案。
 
 ### 题解
