@@ -11,11 +11,12 @@ tags: ["细节", "枚举"]
 ### 题意
 
 在一个 \\(N \times N\\) 的棋盘上，告诉你 black king, white king, black-white king 的位置，
-black-white king 不被其他两个王看到（隐身），现在 black king 和 white king 要联合对抗 black-white king,
-需要走到相邻的位置就能联合（一个格子有 \\(8\\) 个相邻的格子），他们会沿着所有可能相遇点中最短的走。
-现在 black-white king 想阻止他们，只需要在他们相遇之前吃掉某一个 king 就行，
+black-white king 不被其他两个王看到（隐身），black king 和 white king 要联合对抗 black-white king,
+他们需要走到相邻的位置汇合（一个格子有 \\(8\\) 个相邻的格子）。
+他们将沿着所有合法汇合位置中，距离和最短的那些路走。
+现在 black-white king 想阻止他们，只需要在他们相遇之前吃掉某一个 king，
 当他某一次移动的时候移动到一个 king 的位置就可以算吃掉他，如果 king 走到他的位置则不算，
-black-white king 要沿着到某点最短路走（就是走的路径不能被缩短）。
+black-white king 移动要沿着到某点最短路走（就是走的路径不能被缩短）。
 
 问 black-white king 是否有可能阻止其他两个王相遇，如果有可能输出他最少需要走几步吃掉其他两个王。
 否则输出其他两个王最少一共走几步相遇。移动是按照 white king, black king, black-white king 的顺序进行的，
@@ -31,7 +32,7 @@ king 每回合，king 在长边的方向上是肯定有移动的。所以我们�
 然后算出纵向坐标的范围，然后判断 black-white king 是不是能在第 \\(i\\) 步吃到就行。
 
 假设 \\(d\\) 是一个王走到另一个王那儿的最短距离，那么 \\(d = \max(\Delta x, \Delta y)\\)，
-合法的相遇点肯定是一个王走 \\([ d \over 2 ]\\)，另一个王走 \\(d - [ d \over 2 ]\\)能相遇的点，
+合法的相遇点肯定是一个王走 \\([ {d \over 2} ]\\)，另一个王走 \\(d - {[ {d \over 2} ]}\\)能相遇的点，
 并且很容易知道，black-white king 每一步能到达的范围是一个正方形边界。
 如果最后 black-white king 不能赢，那么两王相遇最小距离和是 \\(d - 1\\)。
 
