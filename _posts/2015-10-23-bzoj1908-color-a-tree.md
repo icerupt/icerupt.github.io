@@ -42,7 +42,9 @@ $$ cost\_1 = 1 * 0 + 2 * x + \displaystyle\sum_{i=1}^{t} (i + 2) * c\_i \label{o
 $$ cost\_2 = 1 * 0 + \displaystyle\sum_{i=1}^{t} (i + 1) * c\_i + (t + 2) * x \label{two} $$
 
 那么在 \\(x\\) 取到与估价权值相等的时候 (\ref{one}) 和 (\ref{two}) 相等，可以解出：
-$$ x = $$
+$$ x = \frac{ \displaystyle\sum_{i=1}^{t} c\_i }{ t } $$
+
+就这么巧妙的，你就得到了合并后节点的估价函数！
 
 
 ### 实现
