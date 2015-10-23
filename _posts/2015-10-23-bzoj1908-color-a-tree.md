@@ -36,10 +36,10 @@ tags: ["贪心", "证明"]
 怎么估价节点2这个已经进行一些合并的节点的权值。
 
 那么我们不妨把两种情况都写出来，如果选择合并0和1, 那么最终权和：
-$$ cost\_1 = 1 * 0 + 2 * x + \displaystyle\sum_{i=1}^{t} (i + 2) * c\_i \label{one} $$
+$$ cost\_1 = 1 \times 0 + 2 \times x + \displaystyle\sum_{i=1}^{t} (i + 2) \times c\_i \label{one} $$
 
 如果选择合并0和2, 那么最终权和：
-$$ cost\_2 = 1 * 0 + \displaystyle\sum_{i=1}^{t} (i + 1) * c\_i + (t + 2) * x \label{two} $$
+$$ cost\_2 = 1 \times 0 + \displaystyle\sum_{i=1}^{t} (i + 1) \times c\_i + (t + 2) \times x \label{two} $$
 
 那么在 \\(x\\) 取到与估价权值相等的时候 (\ref{one}) 和 (\ref{two}) 相等，可以解出：
 $$ x = \frac{ \displaystyle\sum_{i=1}^{t} c\_i }{ t } $$
