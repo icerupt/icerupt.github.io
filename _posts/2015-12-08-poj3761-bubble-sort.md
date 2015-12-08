@@ -33,10 +33,10 @@ $$ \begin{equation*} F(n, k)=(k+1)!(k+1)^{n-k-1} \end{equation*} $$
 
 最终答案就是：
 
-$$ \begin{equation*}
+$$ \begin{align*}
 	ans &= F(n, k)-F(n, k-1) \\\\
 		&= (k+1)!(k+1)^{n-k-1} - k!k^{n-k} \\\\
-\end{equation*} $$
+\end{align*} $$
 
 ### 实现
 
