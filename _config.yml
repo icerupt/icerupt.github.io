@@ -2,6 +2,8 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
 
+gems: [jekyll-paginate, jekyll-gist]
+
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
@@ -18,6 +20,9 @@ author :
   feedburner : feedname
 
 markdown: kramdown
+kramdown:
+      input: GFM
+      syntax_highlighter: rouge
 #markdown: redcarpet
 #redcarpet:
 #  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
