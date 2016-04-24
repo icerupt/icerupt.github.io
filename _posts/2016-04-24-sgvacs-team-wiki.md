@@ -2,6 +2,7 @@
 layout: post
 title: "sgVAC's team wiki"
 description: ""
+comments: false
 category: "training"
 tags: ["training"]
 ---
