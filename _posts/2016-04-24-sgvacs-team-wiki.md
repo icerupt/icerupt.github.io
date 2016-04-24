@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sgVAC's wiki"
+title: "sgVAC's team wiki"
 description: ""
 category: "training"
 tags: ["training"]
