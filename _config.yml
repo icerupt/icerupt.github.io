@@ -98,9 +98,9 @@ JB :
   #      colorscheme: light
 
     comments :
-      provider : duoshuo
-      duoshuo :
-        short_name : icerupt
+      provider : false
+    #  duoshuo :
+    #   short_name : icerupt
 
 
   #   
