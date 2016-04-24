@@ -11,11 +11,11 @@ tags: ["training"]
 ## contest
 
 1. [Codeforces Round #230 (Div. 1)][1]
-:  A. Blocked Points
-:  B. Tower of Hanoi
-:  C. Yet Another Number Sequence
-:  D. Three Arrays
-:  E. Deleting Substrings
+:  <del>A. Blocked Points</del>
+:  <del>B. Tower of Hanoi</del>
+:  <del>[C. Yet Another Number Sequence][2]</del>
+:  <del>[D. Three Arrays][3]</del>
+:  <del>[E. Deleting Substrings][4]</del>
 
 ## online judge
 
@@ -23,6 +23,9 @@ tags: ["training"]
 ## todo
 
 [1]: http://codeforces.com/contest/392
+[2]: http://codeforces.com/contest/392/problem/C
+[3]: http://codeforces.com/contest/392/problem/D
+[4]: http://codeforces.com/contest/392/problem/E
 
 {% endraw %}
 
