@@ -98,9 +98,18 @@ JB :
   #      colorscheme: light
 
     comments :
-      provider : false
-    #  duoshuo :
-    #   short_name : icerupt
+      provider : duoshuo
+      duoshuo :
+        short_name : icerupt
+      livefyre :
+        site_id : 123
+      intensedebate :
+        account : 123abc
+      facebook :
+        appid : 123
+        num_posts: 5
+        width: 580
+        colorscheme: light
 
 
   #   
