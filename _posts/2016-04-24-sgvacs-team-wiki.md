@@ -40,6 +40,13 @@ tags: ["training"]
 
 ## online judge
 
+1. <del>bzoj1098. poi2007 biu</del>(补图稠密图，list乱搞)
+2. [bzoj3524. poi2014 couriers][100](区间众数, todo)
+3. <del>bzoj1532. poi2007 biu</del>(dinic可过！复杂度感人)
+4. <del>bzoj1116. poi2008 clo</del>(图论建模+并查集)
+5. <del>bzoj1106. poi2007 tet</del>(括号匹配+树状数组)
+6. <del>bzoj1132. poi2008 tro</del>(先水平序再极角序排序，理解叉积)
+7. <del>bzoj1131. poi2008 sta</del>(简单的树形dp，dfs)
 
 ## todo
 
@@ -60,5 +67,6 @@ tags: ["training"]
 [13]: http://codeforces.com/contest/494/problem/D
 [14]: http://codeforces.com/contest/494/problem/E
 
+[100]: http://www.lydsy.com/JudgeOnline/problem.php?id=3524
 {% endraw %}
 
