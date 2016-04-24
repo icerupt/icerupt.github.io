@@ -10,14 +10,14 @@ tags: ["training"]
 
 ## contest
 
-1. [Codeforces Round #230 (Div. 1)][1]
+1. [Codeforces Round #230 (Div. 1)][1](April 18)
 :  <del>A. Blocked Points</del>
 :  <del>B. Tower of Hanoi</del>
 :  <del>[C. Yet Another Number Sequence][2]</del>(递推，矩阵乘法)
 :  <del>[D. Three Arrays][3]</del>(不错的数据结构，维护二维坐标里梯形图)
 :  [E. Deleting Substrings][4]
 
-2. [The 13th Zhejiang Provincial Collegiate Contest][5]([online board][6])(April 10)
+2. [The 13th Zhejiang Provincial Collegiate Contest][5]([online board][6])(April 23)
 : <del>A. Apples and Ideas</del>
 : [B. More Health Points][7]
 : <del>C. Defuse the Bomb</del>
@@ -31,7 +31,7 @@ tags: ["training"]
 : <del>L. Highway Project</del>
 : <del>M. Very Happy Great BG</del>
 
-3. [Codeforces Round #282 (Div. 1)][13]
+3. [Codeforces Round #282 (Div. 1)][13](April 24)
 :  <del>A. Treasure</del>
 :  <del>B. Obsessive String</del>(kmp + dp)
 :  [C. Helping People][14]
