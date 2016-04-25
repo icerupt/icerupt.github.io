@@ -86,7 +86,7 @@ JB :
   #
   comments :
     provider : duoshuo
-    disqus :
+    duoshuo :
       short_name : icerupt
     livefyre :
       site_id : 123
