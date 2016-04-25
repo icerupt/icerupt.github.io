@@ -88,6 +88,9 @@ JB :
     provider : duoshuo
     duoshuo :
       short_name : icerupt
+    #provider : disqus
+    #disqus :
+    #  short_name : jekyllbootstrap
     livefyre :
       site_id : 123
     intensedebate :
