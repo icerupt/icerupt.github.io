@@ -41,7 +41,7 @@ tags: ["training"]
 4. [Codeforces Round #136 (Div. 1)][17](April 25)
 :  <del>A. Little Elephant and Problem</del>
 :  <del>B. Little Elephant and Array</del>(还有不错的分块和O(nlogn)做法)
-:  [C. Little Elephant and Shifts][18]
+:  <del>[C. Little Elephant and Shifts][18]</del>(不错的数据结构想法题，multiset)
 :  [D. Little Elephant and Triangle][19]
 :  [E. Little Elephant and Inversions][20]
 
