@@ -39,6 +39,13 @@ tags: ["training"]
 :  [D. Birthday][15]
 :  [E. Sharti][16]
 
+4. [Codeforces Round #136 (Div. 1)][17](April 25)
+:  <del>A. Little Elephant and Problem</del>
+:  <del>B. Little Elephant and Array</del>
+:  [C. Little Elephant and Shifts][18]
+:  [D. Little Elephant and Triangle][19]
+:  [E. Little Elephant and Inversions][20]
+
 ## online judge
 
 1. <del>bzoj1098. poi2007 biu</del>(补图稠密图，list乱搞)
@@ -69,6 +76,11 @@ tags: ["training"]
 [14]: http://codeforces.com/contest/494/problem/C
 [15]: http://codeforces.com/contest/494/problem/D
 [16]: http://codeforces.com/contest/494/problem/E
+
+[17]: http://codeforces.com/contest/220
+[18]: http://codeforces.com/contest/220/problem/C
+[19]: http://codeforces.com/contest/220/problem/D
+[20]: http://codeforces.com/contest/220/problem/E
 
 [100]: http://www.lydsy.com/JudgeOnline/problem.php?id=3524
 {% endraw %}
