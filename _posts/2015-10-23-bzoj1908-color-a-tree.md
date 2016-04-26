@@ -26,6 +26,7 @@ tags: ["贪心", "证明"]
 第一、三条都很好理解，第一条的贪心很显然，难点就在于第二条。我们尝试着来证明一下。
 
 ![v](/assets/img/bzoj1908-tree.svg)
+
 <div class="figure-comment">
 图中圈内数字是顶点编号，假设根节点 0 的权值为 \\(0\\)，1 号点的权值为 \\(x\\)，
 2 号节点是由 \\(t\\)个点（按照其合并好后的次序权值为 \\(c_i\\)）组成的合并后的点。
@@ -36,12 +37,15 @@ tags: ["贪心", "证明"]
 怎么估价节点2这个已经进行一些合并的节点的权值。
 
 那么我们不妨把两种情况都写出来，如果选择合并0和1, 那么最终权和：
+
 $$ cost_1 = 1 \times 0 + 2 \times x + \displaystyle\sum_{i=1}^{t} (i + 2) \times c_i \label{one} $$
 
 如果选择合并0和2, 那么最终权和：
+
 $$ cost_2 = 1 \times 0 + \displaystyle\sum_{i=1}^{t} (i + 1) \times c_i + (t + 2) \times x \label{two} $$
 
 那么在 \\(x\\) 取到与估价权值相等的时候 (\ref{one}) 和 (\ref{two}) 相等，可以解出：
+
 $$ x = \frac{ \displaystyle\sum_{i=1}^{t} c_i }{ t } $$
 
 就这么巧妙的，你就得到了合并后节点的估价函数！
