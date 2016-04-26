@@ -10,9 +10,9 @@ tags: ["贪心", "证明"]
 
 ### 题意
 
-给定一个树，每个点有个权值 \\(c\_i\\)，现在要给所有点染色，如果要染当前点
-其父亲节点必须以经染色，第 \\(t\_i\\) 个染的点，需费用为 \\(t\_i \times c\_i\\)。
-现在要染所有点并且最小化 \\(\displaystyle\sum t\_i \times c\_i \\)。
+给定一个树，每个点有个权值 \\(c_i\\)，现在要给所有点染色，如果要染当前点
+其父亲节点必须以经染色，第 \\(t_i\\) 个染的点，需费用为 \\(t_i \times c_i\\)。
+现在要染所有点并且最小化 \\(\displaystyle\sum t_i \times c_i \\)。
 
 
 ### 题解
@@ -28,7 +28,7 @@ tags: ["贪心", "证明"]
 ![v](/assets/img/bzoj1908-tree.svg)
 <div class="figure-comment">
 图中圈内数字是顶点编号，假设根节点 0 的权值为 \\(0\\)，1 号点的权值为 \\(x\\)，
-2 号节点是由 \\(t\\)个点（按照其合并好后的次序权值为 \\(c\_i\\)）组成的合并后的点。
+2 号节点是由 \\(t\\)个点（按照其合并好后的次序权值为 \\(c_i\\)）组成的合并后的点。
 </div>
 
 现在假设合并到这样一个局面，那么接下来要考虑合并节点0和节点2或者是合并节点0和节点，
@@ -36,13 +36,13 @@ tags: ["贪心", "证明"]
 怎么估价节点2这个已经进行一些合并的节点的权值。
 
 那么我们不妨把两种情况都写出来，如果选择合并0和1, 那么最终权和：
-$$ cost\_1 = 1 \times 0 + 2 \times x + \displaystyle\sum_{i=1}^{t} (i + 2) \times c\_i \label{one} $$
+$$ cost_1 = 1 \times 0 + 2 \times x + \displaystyle\sum_{i=1}^{t} (i + 2) \times c_i \label{one} $$
 
 如果选择合并0和2, 那么最终权和：
-$$ cost\_2 = 1 \times 0 + \displaystyle\sum_{i=1}^{t} (i + 1) \times c\_i + (t + 2) \times x \label{two} $$
+$$ cost_2 = 1 \times 0 + \displaystyle\sum_{i=1}^{t} (i + 1) \times c_i + (t + 2) \times x \label{two} $$
 
 那么在 \\(x\\) 取到与估价权值相等的时候 (\ref{one}) 和 (\ref{two}) 相等，可以解出：
-$$ x = \frac{ \displaystyle\sum_{i=1}^{t} c\_i }{ t } $$
+$$ x = \frac{ \displaystyle\sum_{i=1}^{t} c_i }{ t } $$
 
 就这么巧妙的，你就得到了合并后节点的估价函数！
 
