@@ -45,6 +45,13 @@ tags: ["training"]
 :  [D. Little Elephant and Triangle][19]
 :  [E. Little Elephant and Inversions][20]
 
+5. [Codeforces Round #345 (Div. 1)][21](April 28)
+:  <del>A. Watchmen</del>
+:  <del>B. Image Preview</del>
+:  <del>C. Table Compression</del>(其实还挺简单的题，要合并相等数就好)
+:  [D. Zip-line][22]
+:  [E. Clockwork Bomb][23]
+
 ## online judge
 
 1. <del>bzoj1098. poi2007 biu</del>(补图稠密图，list乱搞)
@@ -80,6 +87,10 @@ tags: ["training"]
 [18]: http://codeforces.com/contest/220/problem/C
 [19]: http://codeforces.com/contest/220/problem/D
 [20]: http://codeforces.com/contest/220/problem/E
+
+[21]: http://codeforces.com/contest/650
+[22]: http://codeforces.com/contest/650/problem/D
+[23]: http://codeforces.com/contest/650/problem/E
 
 [100]: http://www.lydsy.com/JudgeOnline/problem.php?id=3524
 {% endraw %}
