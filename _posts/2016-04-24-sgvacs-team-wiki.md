@@ -22,7 +22,7 @@ tags: ["training"]
 : [B. More Health Points][7]
 : <del>C. Defuse the Bomb</del>
 : <del>D. The Lucky Week</del>
-: [E. Modulo Query][8]
+: <del>[E. Modulo Query][8]</del>(不错的map题，一个数模除一堆数)
 : <del>[F. Kpop Music Party][9]</del>(不错的贪心，\\(2^n\\)枚举又端点)
 : [G. Substring Counting][10]
 : [H. Himalayas][11]
