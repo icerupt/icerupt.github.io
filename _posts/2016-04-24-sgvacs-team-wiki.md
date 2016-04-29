@@ -34,7 +34,7 @@ tags: ["training"]
 3. [Codeforces Round #282 (Div. 1)][13](April 24)
 :  <del>A. Treasure</del>
 :  <del>B. Obsessive String</del>(kmp + dp)
-:  [C. Helping People][14]
+:  <del>[C. Helping People][14]</del>(不错的树上概率dp)
 :  [D. Birthday][15]
 :  [E. Sharti][16]
 
