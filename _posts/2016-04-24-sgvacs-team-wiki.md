@@ -52,6 +52,13 @@ tags: ["training"]
 :  [D. Zip-line][22]
 :  [E. Clockwork Bomb][23]
 
+6. [Codeforces Round #349 (Div. 1)][24](April 30)
+:  <del>A. Reberland Linguistics</del>(in a row连续)
+:  [B. World Tour][25]
+:  [C. Codeword][26]
+:  [D. Chain Reaction][27]
+:  [E. Forensic Examination][28]
+
 ## online judge
 
 1. <del>bzoj1098. poi2007 biu</del>(补图稠密图，list乱搞)
@@ -91,6 +98,13 @@ tags: ["training"]
 [21]: http://codeforces.com/contest/650
 [22]: http://codeforces.com/contest/650/problem/D
 [23]: http://codeforces.com/contest/650/problem/E
+
+[24]: http://codeforces.com/contest/666
+[25]: http://codeforces.com/contest/666/problem/B
+[26]: http://codeforces.com/contest/666/problem/C
+[27]: http://codeforces.com/contest/666/problem/D
+[28]: http://codeforces.com/contest/666/problem/E
+
 
 [100]: http://www.lydsy.com/JudgeOnline/problem.php?id=3524
 {% endraw %}
