@@ -59,6 +59,21 @@ tags: ["training"]
 :  [D. Chain Reaction][27]
 :  [E. Forensic Examination][28]
 
+7. [ICL 2016 (GP of Tatarstan)][29](May 1)
+:  [A. Three seamarks][30]
+:  [B. High-Speed Pedestrian walkway 1.0][31]
+:  <del>C. Cubes</del>
+:  [D. Camelogistics][32]
+:  [E. The Carpet][33]
+:  <del>F. GCD and LCM</del>(简单的题，比赛时逗。别光想着结果，要想过程)
+:  <del>G. Pots</del>
+:  <del>H. Messenger</del>
+:  <del>I. Manhattan Project</del>
+:  [J. Liquid][34]
+:  [K. Synonymous Words Number System][35]
+:  [L. Three machines][36]
+:  <del>M. The smallest fraction</del>
+
 ## online judge
 
 1. <del>bzoj1098. poi2007 biu</del>(补图稠密图，list乱搞)
@@ -105,6 +120,14 @@ tags: ["training"]
 [27]: http://codeforces.com/contest/666/problem/D
 [28]: http://codeforces.com/contest/666/problem/E
 
+[29]: http://codeforces.com/gym/100942
+[30]: http://codeforces.com/gym/100942/problem/A
+[31]: http://codeforces.com/gym/100942/problem/B
+[32]: http://codeforces.com/gym/100942/problem/D
+[33]: http://codeforces.com/gym/100942/problem/E
+[34]: http://codeforces.com/gym/100942/problem/J
+[35]: http://codeforces.com/gym/100942/problem/J
+[36]: http://codeforces.com/gym/100942/problem/L
 
 [100]: http://www.lydsy.com/JudgeOnline/problem.php?id=3524
 {% endraw %}
