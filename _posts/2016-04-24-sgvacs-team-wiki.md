@@ -83,6 +83,7 @@ tags: ["training"]
 5. <del>bzoj1106. poi2007 tet</del>(括号匹配+树状数组)
 6. <del>bzoj1132. poi2008 tro</del>(先水平序再极角序排序，理解叉积)
 7. <del>bzoj1131. poi2008 sta</del>(简单的树形dp，dfs)
+8. <del>bzoj1123. poi2008 blo</del>(点双连通，在tarjan中维护)
 
 ## todo
 
