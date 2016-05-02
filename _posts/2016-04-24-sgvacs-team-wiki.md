@@ -74,6 +74,17 @@ tags: ["training"]
 :  [L. Three machines][36]
 :  <del>M. The smallest fraction</del>
 
+8. [pratice contest 5][37](May 2)
+:  <del>A. Hike on a Graph</del>
+:  [B. A Well-Formed Problem][38](模拟题)
+:  <del>C. Triangle Encapsulation</del>
+:  [D. Symbolic Derivation][39](模拟题)
+:  <del>E. Robbery</del>
+:  <del>F. Dreisam Equations</del>
+:  <del>[G. Triangle War][40]</del>(极大积小过程，alphe-beta剪枝)
+:  <del>[H. Metal Cutting][41]</del>(convex cut)
+
+
 ## online judge
 
 1. <del>bzoj1098. poi2007 biu</del>(补图稠密图，list乱搞)
@@ -84,6 +95,7 @@ tags: ["training"]
 6. <del>bzoj1132. poi2008 tro</del>(先水平序再极角序排序，理解叉积)
 7. <del>bzoj1131. poi2008 sta</del>(简单的树形dp，dfs)
 8. <del>bzoj1123. poi2008 blo</del>(点双连通，在tarjan中维护)
+9. <del>bzoj1097. poi2007 atr</del>(最短路+状态压缩dp)
 
 ## todo
 
@@ -129,6 +141,12 @@ tags: ["training"]
 [34]: http://codeforces.com/gym/100942/problem/J
 [35]: http://codeforces.com/gym/100942/problem/J
 [36]: http://codeforces.com/gym/100942/problem/L
+
+[37]: https://njoj.org/Contest/779
+[38]: http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1116
+[39]: http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1138
+[40]: http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1155
+[41]: http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1185
 
 [100]: http://www.lydsy.com/JudgeOnline/problem.php?id=3524
 {% endraw %}
