@@ -69,7 +69,7 @@ tags: ["training"]
 :  <del>G. Pots</del>
 :  <del>H. Messenger</del>
 :  <del>I. Manhattan Project</del>
-:  [J. Liquid][34]
+:  <del>[J. Liquid][34]</del>(set随便维护)
 :  [K. Synonymous Words Number System][35]
 :  [L. Three machines][36]
 :  <del>M. The smallest fraction</del>
