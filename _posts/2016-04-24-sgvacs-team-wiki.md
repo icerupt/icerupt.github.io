@@ -106,11 +106,11 @@ tags: ["training"]
 :   <del>A.</del>
 :   <del>B.</del>
 :   <del>C.</del>
-:   [D.][]
-:   [E.][]
+:   D.
+:   E.
 :   <del>F.</del>
 :   <del>G.</del>
-:   [H.][]
+:   H.
 :   <del>I.</del>
 :   <del>J.</del>
 
