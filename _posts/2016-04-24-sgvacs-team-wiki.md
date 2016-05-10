@@ -126,6 +126,7 @@ tags: ["training"]
 7. <del>bzoj1131. poi2008 sta</del>(简单的树形dp，dfs)
 8. <del>bzoj1123. poi2008 blo</del>(点双连通，在tarjan中维护)
 9. <del>bzoj1097. poi2007 atr</del>(最短路+状态压缩dp)
+10. <del>bzoj1109. poi2007 klo</del>(不错的lis，思考三维偏序cdq)
 
 ## todo
 
