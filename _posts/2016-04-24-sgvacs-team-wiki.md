@@ -84,6 +84,36 @@ tags: ["training"]
 :  <del>[G. Triangle War][40]</del>(极大积小过程，alphe-beta剪枝)
 :  <del>[H. Metal Cutting][41]</del>(convex cut)
 
+9. [Codeforces Round #296 (Div. 1)][42](May 6)
+:  <del>A. Glass Carving</del>
+:  <del>B. Clique Problem</del>
+:  <del>C. Data Center Drama</del>(图论，欧拉回路，交替方向)
+:  [D. Fuzzy Search][43]
+:  [E. Triangles 3000][44]
+
+10. [The 16th Zhejiang University Programming Contest][45]([online board][46], [njust oj board][47])(4th pk, May 7)
+:   <del>A. Programming Ability Test</del>
+:   [B. Rectangle and Rectangle][48]
+:   <del>C. Deque and Balls</del>(直接计数，不相等直接算，减去相等)
+:   <del>D. Dice Notation</del>
+:   [E. Exact Compression][49]
+:   <del>F. Handshakes</del>
+:   <del>G. Team Formation</del>
+:   [H. LCP Array][50]
+:   <del>I. 2016</del>
+
+11. 2016 JIANGSU COLLEGIATE PROGRAMMING CONTEST(JSCPC 2016)([board][51], May 8)(最后第五拿了特等，有点可惜)
+:   <del>A.</del>
+:   <del>B.</del>
+:   <del>C.</del>
+:   [D.][]
+:   [E.][]
+:   <del>F.</del>
+:   <del>G.</del>
+:   [H.][]
+:   <del>I.</del>
+:   <del>J.</del>
+
 
 ## online judge
 
@@ -147,6 +177,19 @@ tags: ["training"]
 [39]: http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1138
 [40]: http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1155
 [41]: http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1185
+
+[42]: http://codeforces.com/contest/528
+[43]: http://codeforces.com/contest/528/problem/D
+[44]: http://codeforces.com/contest/528/problem/E
+
+[45]: http://acm.zju.edu.cn/onlinejudge/showContestProblems.do?contestId=368
+[46]: http://acm.zju.edu.cn/onlinejudge/showContestRankList.do?contestId=368
+[47]: https://njoj.org/Contest/785/rank/
+[48]: http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=3928
+[49]: http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=3931
+[50]: http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=3934
+
+[51]: http://acm.nju.edu.cn/board/jscpc2016.html
 
 [100]: http://www.lydsy.com/JudgeOnline/problem.php?id=3524
 {% endraw %}
