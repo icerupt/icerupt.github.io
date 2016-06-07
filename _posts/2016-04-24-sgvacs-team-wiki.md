@@ -114,7 +114,7 @@ tags: ["training"]
 :   <del>I.</del>
 :   <del>J.</del>
 
-12. 2016 Astar Round2A([board][52])
+12. 2016 Astar Round2A([board][52], May 21)
 :   <del>A. All X</del>(递归、快速幂)
 :   <del>B. Sitting in Line</del>(状压)
 :   [C. Snacks][53]
@@ -122,7 +122,7 @@ tags: ["training"]
 :   [E. BD String][55]
 :   <del>F. Gym Class</del>
 
-13. 2016 Astar Round2B([board][56])
+13. 2016 Astar Round2B([board][56], May 22)
 :   [A. 区间的价值][57]
 :   [B. 刷题计划][58]
 :   <del>C. 瞬间移动</del>
@@ -130,7 +130,7 @@ tags: ["training"]
 :   <del>E. 区间交</del>
 :   <del>F. 中位数计数</del>
 
-14. 2016 Astar Round3([board][60])
+14. 2016 Astar Round3([board][60], May 29)
 :   [A. D++游戏][61]
 :   [B. K个联通块][62]
 :   <del>C. 拍照</del>
@@ -138,13 +138,13 @@ tags: ["training"]
 :   [E. 带可选字符的多字符串匹配][64]
 :   [F. 矩阵方程的解][65]
 
-15. 2016 计蒜之道 初赛 第一场([board][66])
+15. 2016 计蒜之道 初赛 第一场([board][66], June 5)
 :   <del>A. 青云的服务器密钥(构造)</del>
 :   <del>B. 青云的机房组网方案(简单)</del>
 :   [C. 青云的机房组网方案(中等)][67]
 :   [D. 青云的机房组网方案(困难)][68]
 
-16. 2016 计蒜之道 初赛 第二场([board][69])
+16. 2016 计蒜之道 初赛 第二场([board][69], June 5)
 :   <del>A. 联想公司的logo设计</del>
 :   <del>B. 联想的显示屏校准(简单)</del>
 :   [C. 联想的显示屏校准(中等)][70]
