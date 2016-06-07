@@ -125,7 +125,7 @@ tags: ["training"]
 13. 2016 Astar Round2B([board][56])
 :   [A. 区间的价值][57]
 :   [B. 刷题计划][58]
-:   <del>C. 瞬间移动()</del>
+:   <del>C. 瞬间移动</del>
 :   [D. 货物运输][59]
 :   <del>E. 区间交</del>
 :   <del>F. 中位数计数</del>
