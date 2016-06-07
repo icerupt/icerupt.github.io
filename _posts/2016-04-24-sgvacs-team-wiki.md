@@ -115,8 +115,8 @@ tags: ["training"]
 :   <del>J.</del>
 
 12. 2016 Astar Round2A([board][52])
-:   <del>A. All X(递归、快速幂)</del>
-:   <del>B. Sitting in Line(状压)</del>
+:   <del>A. All X</del>(递归、快速幂)
+:   <del>B. Sitting in Line</del>(状压)
 :   [C. Snacks][53]
 :   [D. D Game][54]
 :   [E. BD String][55]
