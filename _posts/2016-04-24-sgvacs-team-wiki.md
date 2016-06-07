@@ -130,6 +130,25 @@ tags: ["training"]
 :   <del>E. 区间交</del>
 :   <del>F. 中位数计数</del>
 
+14. 2016 Astar Round3([board][60])
+:   [A. D++游戏][61]
+:   [B. K个联通块][62]
+:   <del>C. 拍照</del>
+:   [D. XOR 游戏][63]
+:   [E. 带可选字符的多字符串匹配][64]
+:   [F. 矩阵方程的解][65]
+
+15. 2016 计蒜之道 初赛 第一场([board][66])
+:   <del>A. 青云的服务器密钥(构造)</del>
+:   <del>B. 青云的机房组网方案(简单)</del>
+:   [C. 青云的机房组网方案(中等)][67]
+:   [D. 青云的机房组网方案(困难)][68]
+
+16. 2016 计蒜之道 初赛 第二场([board][69])
+:   <del>A. 联想公司的logo设计</del>
+:   <del>B. 联想的显示屏校准(简单)</del>
+:   [C. 联想的显示屏校准(中等)][70]
+:   [D. 联想的显示屏校准(困难)][71]
 
 ## online judge
 
@@ -217,6 +236,22 @@ tags: ["training"]
 [57]: http://acm.hdu.edu.cn/showproblem.php?pid=5696
 [58]: http://acm.hdu.edu.cn/showproblem.php?pid=5697
 [59]: http://acm.hdu.edu.cn/showproblem.php?pid=5699
+
+[60]: http://bestcoder.hdu.edu.cn/contests/contest_ranklist.php?cid=715
+[61]: http://acm.hdu.edu.cn/showproblem.php?pid=5712
+[62]: http://acm.hdu.edu.cn/showproblem.php?pid=5713
+[63]: http://acm.hdu.edu.cn/showproblem.php?pid=5715
+[64]: http://acm.hdu.edu.cn/showproblem.php?pid=5716
+[65]: http://acm.hdu.edu.cn/showproblem.php?pid=5717
+
+[66]: http://www.jisuanke.com/contest/387?view=rank
+[67]: http://nanti.jisuanke.com/t/11134
+[68]: http://nanti.jisuanke.com/t/11135
+
+[69]: http://www.jisuanke.com/contest/388?view=rank
+[70]: http://nanti.jisuanke.com/t/11166
+[71]: http://nanti.jisuanke.com/t/11167
+
 
 [10000]: http://www.lydsy.com/JudgeOnline/problem.php?id=3524
 {% endraw %}
