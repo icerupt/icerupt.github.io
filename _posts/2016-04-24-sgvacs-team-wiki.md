@@ -25,7 +25,7 @@ tags: ["training"]
 : <del>[E. Modulo Query][8]</del>(不错的map题，一个数模除一堆数)
 : <del>[F. Kpop Music Party][9]</del>(不错的贪心，\\(2^n\\)枚举又端点)
 : [G. Substring Counting][10]
-: [H. Himalayas][11]
+: <del>[H. Himalayas][11]</del>(不错的线段树)
 : <del>I. People Counting</del>
 : [J. Rush on the Cube][12]
 : <del>L. Highway Project</del>
