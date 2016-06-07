@@ -114,11 +114,27 @@ tags: ["training"]
 :   <del>I.</del>
 :   <del>J.</del>
 
+12. Astar Round2A([board][52])
+:   <del>A. All X(递归、快速幂)</del>
+:   <del>B. Sitting in Line(状压)</del>
+:   [C. Snacks][53]
+:   [D. D Game][54]
+:   [E. BD String][55]
+:   <del>F. Gym Class</del>
+
+13. Astar Round2B([board][56])
+:   [A. 区间的价值][57]
+:   [B. 刷题计划][58]
+:   <del>C. 瞬间移动()</del>
+:   [D. 货物运输][59]
+:   <del>E. 区间交</del>
+:   <del>F. 中位数计数</del>
+
 
 ## online judge
 
 1. <del>bzoj1098. poi2007 biu</del>(补图稠密图，list乱搞)
-2. [bzoj3524. poi2014 couriers][100](区间众数, todo)
+2. [bzoj3524. poi2014 couriers][10000](区间众数, todo)
 3. <del>bzoj1532. poi2007 biu</del>(dinic可过！复杂度感人)
 4. <del>bzoj1116. poi2008 clo</del>(图论建模+并查集)
 5. <del>bzoj1106. poi2007 tet</del>(括号匹配+树状数组)
@@ -192,6 +208,16 @@ tags: ["training"]
 
 [51]: http://acm.nju.edu.cn/board/jscpc2016.html
 
-[100]: http://www.lydsy.com/JudgeOnline/problem.php?id=3524
+[52]: http://bestcoder.hdu.edu.cn/contests/contest_ranklist.php?cid=701
+[53]: http://acm.hdu.edu.cn/showproblem.php?pid=5692
+[54]: http://acm.hdu.edu.cn/showproblem.php?pid=5693
+[55]: http://acm.hdu.edu.cn/showproblem.php?pid=5694
+
+[56]: http://bestcoder.hdu.edu.cn/contests/contest_ranklist.php?cid=702
+[57]: http://acm.hdu.edu.cn/showproblem.php?pid=5696
+[58]: http://acm.hdu.edu.cn/showproblem.php?pid=5697
+[59]: http://acm.hdu.edu.cn/showproblem.php?pid=5699
+
+[10000]: http://www.lydsy.com/JudgeOnline/problem.php?id=3524
 {% endraw %}
 
