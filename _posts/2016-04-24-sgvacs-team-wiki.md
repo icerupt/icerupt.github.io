@@ -114,7 +114,7 @@ tags: ["training"]
 :   <del>I.</del>
 :   <del>J.</del>
 
-12. Astar Round2A([board][52])
+12. 2016 Astar Round2A([board][52])
 :   <del>A. All X(递归、快速幂)</del>
 :   <del>B. Sitting in Line(状压)</del>
 :   [C. Snacks][53]
@@ -122,7 +122,7 @@ tags: ["training"]
 :   [E. BD String][55]
 :   <del>F. Gym Class</del>
 
-13. Astar Round2B([board][56])
+13. 2016 Astar Round2B([board][56])
 :   [A. 区间的价值][57]
 :   [B. 刷题计划][58]
 :   <del>C. 瞬间移动()</del>
