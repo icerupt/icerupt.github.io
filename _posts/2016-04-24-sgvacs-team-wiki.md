@@ -123,7 +123,7 @@ tags: ["training"]
 :   <del>F. Gym Class</del>
 
 13. 2016 Astar Round2B([board][56], May 22)
-:   [A. 区间的价值][57]
+:   <del>[A. 区间的价值][57]</del>(递归，从最小值点拓展)
 :   [B. 刷题计划][58]
 :   <del>C. 瞬间移动</del>
 :   [D. 货物运输][59]
