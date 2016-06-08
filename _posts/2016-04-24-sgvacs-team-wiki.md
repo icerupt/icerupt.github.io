@@ -119,7 +119,7 @@ tags: ["training"]
 :   <del>B. Sitting in Line</del>(状压)
 :   [C. Snacks][53]
 :   [D. D Game][54]
-:   [E. BD String][55]
+:   <del>[E. BD String][55]</del>
 :   <del>F. Gym Class</del>
 
 13. 2016 Astar Round2B([board][56], May 22)
