@@ -124,7 +124,7 @@ tags: ["training"]
 
 13. 2016 Astar Round2B([board][56], May 22)
 :   <del>[A. 区间的价值][57]</del>(递归，从最小值点拓展)
-:   [B. 刷题计划][58]
+:   <del>[B. 刷题计划][58]</del>(类最小乘积生成树+dp)
 :   <del>C. 瞬间移动</del>
 :   [D. 货物运输][59]
 :   <del>E. 区间交</del>
