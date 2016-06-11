@@ -15,7 +15,7 @@ tags: ["training"]
 :  <del>B. Tower of Hanoi</del>
 :  <del>[C. Yet Another Number Sequence][2]</del>(递推，矩阵乘法)
 :  <del>[D. Three Arrays][3]</del>(不错的数据结构，维护二维坐标里梯形图)
-:  [E. Deleting Substrings][4]
+:  <del>[E. Deleting Substrings][4]</del>(状态有点难想的dp)
 
 2. [The 13th Zhejiang Provincial Collegiate Contest][5]([online board][6])(April 23)
 : <del>A. Apples and Ideas</del>
@@ -162,6 +162,7 @@ tags: ["training"]
 8. <del>bzoj1123. poi2008 blo</del>(点双连通，在tarjan中维护)
 9. <del>bzoj1097. poi2007 atr</del>(最短路+状态压缩dp)
 10. <del>bzoj1109. poi2007 klo</del>(不错的lis，思考三维偏序cdq)
+11. <del>sgu309. real fun</del>(发现性质)
 
 ## todo
 
