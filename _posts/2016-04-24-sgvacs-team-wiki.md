@@ -150,6 +150,26 @@ tags: ["training"]
 :   [C. 联想的显示屏校准(中等)][70]
 :   [D. 联想的显示屏校准(困难)][71]
 
+17. 2016 计蒜之道 初赛 第四场([board][72], June 11)
+:   <del>A. 淘宝流量分配</del>
+:   <del>B. 遗失的支付宝密码(简单)</del>
+:   [D. 遗失的支付宝密码(中等)][73]
+:   [E. 遗失的支付宝密码(困难)][74]
+
+18. 2016 计蒜之道 初赛 第五场([board][75], June 11)
+:   <del>A. 腾讯的一笔画游戏</del>
+:   <del>B. 腾讯的新游戏(简单)</del>
+:   <del>C. 腾讯的新游戏(中等)</del>
+:   [D. 腾讯的新游戏(困难)][76]
+
+19. 2016 Google Code Jam Round3([board][77], June 11)
+:   [A. Teaching Assistant][78]
+:   [B. Forest University][79]
+:   [C. Rebel Against The Empire][80]
+:   [D. Go++][81]
+
+
+
 ## online judge
 
 1. <del>bzoj1098. poi2007 biu</del>(补图稠密图，list乱搞)
@@ -253,6 +273,18 @@ tags: ["training"]
 [70]: http://nanti.jisuanke.com/t/11166
 [71]: http://nanti.jisuanke.com/t/11167
 
+[72]: http://www.jisuanke.com/contest/390?view=rank
+[73]: http://nanti.jisuanke.com/t/11160
+[74]: http://nanti.jisuanke.com/t/11161
+
+[75]: http://www.jisuanke.com/contest/391?view=rank
+[76]: http://nanti.jisuanke.com/t/11152
+
+[77]: https://code.google.com/codejam/contest/3224486/scoreboard?c=3224486
+[78]: https://code.google.com/codejam/contest/3224486/dashboard#s=p0
+[79]: https://code.google.com/codejam/contest/3224486/dashboard#s=p1
+[80]: https://code.google.com/codejam/contest/3224486/dashboard#s=p2
+[81]: https://code.google.com/codejam/contest/3224486/dashboard#s=p3
 
 [10000]: http://www.lydsy.com/JudgeOnline/problem.php?id=3524
 {% endraw %}
