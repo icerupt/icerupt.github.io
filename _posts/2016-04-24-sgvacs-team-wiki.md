@@ -183,6 +183,7 @@ tags: ["training"]
 9. <del>bzoj1097. poi2007 atr</del>(最短路+状态压缩dp)
 10. <del>bzoj1109. poi2007 klo</del>(不错的lis，思考三维偏序cdq)
 11. <del>sgu309. real fun</del>(发现性质)
+12. <del>sgu379. elevator</del>(二分+贪心)
 
 ## todo
 
