@@ -19,7 +19,7 @@ tags: ["training"]
 :  <del>F. Combine String</del>
 :  <del>G. Alice and Bob</del>
 :  [H. Claris Loves Painting][2]
-:  <del>[I. Digit-Sum][3]</del>
+:  <del>[I. Digit-Sum][3]</del>(不错的性质题，构造)
 :  <del>J. Ingress</del>
 
 2. [Codeforces Round #307 (Div. 2)][4](July, 7, morning one hour)
