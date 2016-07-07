@@ -18,6 +18,7 @@ author :
   feedburner : feedname
 
 markdown: kramdown
+
 highlighter: rouge
 #kramdown:
 #  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
@@ -85,12 +86,9 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : duoshuo
-    duoshuo :
-      short_name : icerupt
-    #provider : disqus
-    #disqus :
-    #  short_name : jekyllbootstrap
+    provider : disqus
+    disqus :
+      short_name : jekyllbootstrap
     livefyre :
       site_id : 123
     intensedebate :
