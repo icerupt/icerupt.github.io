@@ -75,6 +75,7 @@ tags: ["training"]
 6. <del>poj3133 Manhattan Wiring</del>(简单路径插头dp，独立插头，不需要维护联通性)
 7. <del>sgu323 Aviamachinations</del>(不错的最小生成树)
 8. <del>hdu3633 Black and white</del>(比较综合的染色类插头dp，最小表示法)
+9. <del>poj2923 Relocation</del>(有趣的dp，先状压+背包预处理出合法状态做为下次dp的物品再背包)
 
 
 [1]: http://bestcoder.hdu.edu.cn/board.php#rd?sukey=3997c0719f151520f32ee4b650be1e9d6bdf8665cd7627c1916651d35e1efabf4f27d36b060e39fd6ab609c464469fa7
