@@ -51,6 +51,19 @@ tags: ["training"]
 :  [L. 最小花费][13]
 :  <del>M. 最优灌溉</del>
 
+5. [Codeforces Round #218 (Div. 2)][14](July 9, morning one hour)
+:  <del>A. K-Periodic Array</del>
+:  <del>B. Fox Dividing Cheese</del>
+:  [C. Hamburgers][15]
+:  [D. Vessels][16]
+:  [E. Subway Innovation][17]
+
+6. [Codeforces Round #263 (Div. 1)][18](July 10, morning one hour)
+:  <del>A. Appleman and Toastman</del>
+:  <del>B. Appleman and Tree</del>
+:  [C. Appleman and a Sheet of Paper][19]
+:  [D. Appleman and Complicated Task][20]
+:  [E. Appleman and a Game][21]
 
 ## online judge
 
@@ -59,6 +72,9 @@ tags: ["training"]
 3. <del>bzoj1210 [HNOI2004]邮递员</del>(基础回路插头dp)
 4. <del>bzoj1187 [HNOI2007]神奇游乐园</del>(回路插头dp，算最大权值，不一定全部遍历)
 5. <del>bzoj2310 ParkII</del>(简单路径插头dp，独立插头)
+6. <del>poj3133 Manhattan Wiring</del>(简单路径插头dp，独立插头，不需要维护联通性)
+7. <del>sgu323 Aviamachinations</del>(不错的最小生成树)
+8. <del>hdu3633 Black and white</del>(比较综合的染色类插头dp，最小表示法)
 
 
 [1]: http://bestcoder.hdu.edu.cn/board.php#rd?sukey=3997c0719f151520f32ee4b650be1e9d6bdf8665cd7627c1916651d35e1efabf4f27d36b060e39fd6ab609c464469fa7
@@ -77,6 +93,16 @@ tags: ["training"]
 [11]: https://njoj.org/Contest/829/
 [12]: https://njoj.org/Contest/829/E/
 [13]: https://njoj.org/Contest/829/L/
+
+[14]: http://codeforces.com/contest/371
+[15]: http://codeforces.com/contest/371/problem/C
+[16]: http://codeforces.com/contest/371/problem/D
+[17]: http://codeforces.com/contest/371/problem/E
+
+[18]: http://codeforces.com/contest/371/problem/D
+[19]: http://codeforces.com/contest/461/problem/C
+[20]: http://codeforces.com/contest/461/problem/D
+[21]: http://codeforces.com/contest/461/problem/E
 
 {% endraw %}
 
