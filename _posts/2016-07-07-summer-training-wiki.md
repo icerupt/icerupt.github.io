@@ -65,6 +65,14 @@ tags: ["training"]
 :  [D. Appleman and Complicated Task][20]
 :  [E. Appleman and a Game][21]
 
+7. [Bayan 2015 Contest Warm Up][22](July 11, morning one hour)
+:   <del>A. Bayan Bus</del>
+:   <del>B. Strongly Connected City</del>
+:   [C. Kamal-ol-molk's Painting][23]
+:   [D. CGCDSSQ][24]
+:   [E. Strongly Connected City 2][25]
+:   [F. Meta-universe][26]
+
 ## online judge
 
 1. <del>hdu3434 Sequence Adjustment</del>(数列差分，找数学性质)
@@ -76,6 +84,8 @@ tags: ["training"]
 7. <del>sgu323 Aviamachinations</del>(不错的最小生成树)
 8. <del>hdu3633 Black and white</del>(比较综合的染色类插头dp，最小表示法)
 9. <del>poj2923 Relocation</del>(有趣的dp，先状压+背包预处理出合法状态做为下次dp的物品再背包)
+10. <del>bzoj4027 [HEOI2015]兔子与樱花</del>(树上不错的贪心)
+11. <del>bzoj2667 [cqoi2012]模拟工厂</del>(不错的贪心)
 
 
 [1]: http://bestcoder.hdu.edu.cn/board.php#rd?sukey=3997c0719f151520f32ee4b650be1e9d6bdf8665cd7627c1916651d35e1efabf4f27d36b060e39fd6ab609c464469fa7
@@ -104,6 +114,12 @@ tags: ["training"]
 [19]: http://codeforces.com/contest/461/problem/C
 [20]: http://codeforces.com/contest/461/problem/D
 [21]: http://codeforces.com/contest/461/problem/E
+
+[22]: http://codeforces.com/contest/475
+[23]: http://codeforces.com/contest/475/problem/C
+[24]: http://codeforces.com/contest/475/problem/D
+[25]: http://codeforces.com/contest/475/problem/E
+[26]: http://codeforces.com/contest/475/problem/F
 
 {% endraw %}
 
