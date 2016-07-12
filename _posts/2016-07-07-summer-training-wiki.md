@@ -73,6 +73,12 @@ tags: ["training"]
 :   [E. Strongly Connected City 2][25]
 :   [F. Meta-universe][26]
 
+8. [Testing Round #9][27](July 12, morning one hour)
+:   <del>A. Second-Price Auction</del>
+:   <del>B. Fly, freebies, fly!</del>
+:   <del>C. Diverse Substrings</del>
+:   [D. Game with Points][28]
+
 ## online judge
 
 1. <del>hdu3434 Sequence Adjustment</del>(数列差分，找数学性质)
@@ -120,6 +126,9 @@ tags: ["training"]
 [24]: http://codeforces.com/contest/475/problem/D
 [25]: http://codeforces.com/contest/475/problem/E
 [26]: http://codeforces.com/contest/475/problem/F
+
+[27]: http://codeforces.com/contest/386
+[28]: http://codeforces.com/contest/386/problem/D
 
 {% endraw %}
 
