@@ -79,6 +79,20 @@ tags: ["training"]
 :   <del>C. Diverse Substrings</del>
 :   [D. Game with Points][28]
 
+9. [CCPC, The 2015 China Collegiate Programming Contest][29](July 13, [offline board][30])
+:  <del>A. Secrete Master Plan</del>
+:  [B. Build Towers][31]
+:  <del>C. The Battle of Chibi</del>
+:  <del>D. Pick The Sticks</del>
+:  <del>E. Ba Gua Zhen</del>
+:  [F. The Battle of Guandu][32]
+:  <del>G. Ancient Go</del>
+:  <del>H. Sudoku</del>
+:  [I. Mahjong][33]
+:  [J. Walk Around The Campsite][34]
+:  <del>K. Game Rooms</del>
+:  <del>L. Huatuo's Medicine</del>
+
 ## online judge
 
 1. <del>hdu3434 Sequence Adjustment</del>(数列差分，找数学性质)
@@ -92,6 +106,7 @@ tags: ["training"]
 9. <del>poj2923 Relocation</del>(有趣的dp，先状压+背包预处理出合法状态做为下次dp的物品再背包)
 10. <del>bzoj4027 [HEOI2015]兔子与樱花</del>(树上不错的贪心)
 11. <del>bzoj2667 [cqoi2012]模拟工厂</del>(不错的贪心)
+12. <del>cf-468-b Two Sets</del>(并查集..这场比赛是杜教出的)
 
 
 [1]: http://bestcoder.hdu.edu.cn/board.php#rd?sukey=3997c0719f151520f32ee4b650be1e9d6bdf8665cd7627c1916651d35e1efabf4f27d36b060e39fd6ab609c464469fa7
@@ -129,6 +144,13 @@ tags: ["training"]
 
 [27]: http://codeforces.com/contest/386
 [28]: http://codeforces.com/contest/386/problem/D
+
+[29]: http://acm.hdu.edu.cn/search.php?field=problem&key=The+2015+China+Collegiate+Programming+Contest&source=1&searchmode=source
+[30]: http://board.ccpc.io/
+[31]: http://acm.hdu.edu.cn/showproblem.php?pid=5541
+[32]: http://acm.hdu.edu.cn/showproblem.php?pid=5545
+[33]: http://acm.hdu.edu.cn/showproblem.php?pid=5548
+[34]: http://acm.hdu.edu.cn/showproblem.php?pid=5549
 
 {% endraw %}
 
