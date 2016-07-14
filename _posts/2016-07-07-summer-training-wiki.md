@@ -93,6 +93,13 @@ tags: ["training"]
 :  <del>K. Game Rooms</del>
 :  <del>L. Huatuo's Medicine</del>
 
+10. [Codeforces Round #280 (Div. 2)][35](July 14, morning one hour)
+:   <del>A. Vanya and Cubes</del>
+:   <del>B. Vanya and Lanterns</del>
+:   <del>C. Vanya and Exams</del>
+:   <del>D. Vanya and Computer Game</del>
+:   [E. Vanya and Field][36]
+
 ## online judge
 
 1. <del>hdu3434 Sequence Adjustment</del>(数列差分，找数学性质)
@@ -151,6 +158,9 @@ tags: ["training"]
 [32]: http://acm.hdu.edu.cn/showproblem.php?pid=5545
 [33]: http://acm.hdu.edu.cn/showproblem.php?pid=5548
 [34]: http://acm.hdu.edu.cn/showproblem.php?pid=5549
+
+[35]: http://codeforces.com/contest/492
+[36]: http://codeforces.com/contest/492/problem/E
 
 {% endraw %}
 
