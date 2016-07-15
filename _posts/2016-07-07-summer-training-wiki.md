@@ -100,7 +100,13 @@ tags: ["training"]
 :   <del>D. Vanya and Computer Game</del>
 :   [E. Vanya and Field][36]
 
-## online judge
+11. [Codeforces Round #362 (Div. 2)][36](July 15, online)
+:   <del>A. Pineapple Incident</del>
+:   <del>B. Barnicle</del>
+:   <del>C. Lorenzo Von Matterhorn</del>
+:   <del>D. Puzzles</del>(考虑兄弟一前一后对期望的影响，就知道是1/2了)
+:   E. PLEASE
+:   F. Legen...
 
 1. <del>hdu3434 Sequence Adjustment</del>(数列差分，找数学性质)
 2. <del>bzoj1258 [CQOI2007]三角形tri</del>(简单题)
