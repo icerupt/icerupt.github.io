@@ -115,6 +115,18 @@ tags: ["training"]
 :   <del>D. Regular Bridge</del>
 :   [E. Brackets in Implications][41]
 
+13. [赛码"BestCoder"杯中国大学生程序设计冠军赛][42](July 17)
+:   <del>A. Movie</del>
+:   <del>B. Cycle</del>
+:   [C. Segment][43]
+:   [D. Brackets][44](线段树)
+:   <del>E. Game</del>(扩展的约瑟夫问题)
+:   [F. Repeating][45]
+:   [G. GAL][46]
+:   [H. Occupation][47](树链剖分)
+:   <del>I. Exploration</del>
+:   <del>J. GCD</del>
+
 
 ## online judge
 
@@ -132,8 +144,8 @@ tags: ["training"]
 12. <del>cf-468-b Two Sets</del>(并查集..这场比赛是杜教出的)
 13. <del>sgu300 Train</del>(nlogn写法一直wa，n^2找最小环)
 14. <del>sgu332 Largest Circle</del>(二分半径，半平面交)
-15. <del>bzoj1150 [CTSC2007]数据备份Backup(贪心，用堆模拟选取过程，反转)
-16. <del>bzoj2667 [cqoi2012]模拟工厂(不错的贪心)
+15. <del>bzoj1150 [CTSC2007]数据备份Backup</del>(贪心，用堆模拟选取过程，反转)
+16. <del>bzoj2667 [cqoi2012]模拟工厂</del>(不错的贪心)
 17. <del>sgu327 Yet Another Palindrome</del>(状态压缩)
 
 
@@ -190,6 +202,14 @@ tags: ["training"]
 
 [40]: http://codeforces.com/contest/550
 [41]: http://codeforces.com/contest/550/problem/E 
+
+[42]: http://acm.hdu.edu.cn/search.php?field=problem&key=%C8%FC%C2%EB%22BestCoder%22%B1%AD%D6%D0%B9%FA%B4%F3%D1%A7%C9%FA%B3%CC%D0%F2%C9%E8%BC%C6%B9%DA%BE%FC%C8%FC&source=1&searchmode=source
+[43]: http://acm.hdu.edu.cn/showproblem.php?pid=5216
+[44]: http://acm.hdu.edu.cn/showproblem.php?pid=5217
+[45]: http://acm.hdu.edu.cn/showproblem.php?pid=5219
+[46]: http://acm.hdu.edu.cn/showproblem.php?pid=5220
+[47]: http://acm.hdu.edu.cn/showproblem.php?pid=5221
+
 
 {% endraw %}
 
