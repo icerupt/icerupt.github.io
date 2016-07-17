@@ -116,6 +116,8 @@ tags: ["training"]
 :   [E. Brackets in Implications][41]
 
 
+## online judge
+
 1. <del>hdu3434 Sequence Adjustment</del>(数列差分，找数学性质)
 2. <del>bzoj1258 [CQOI2007]三角形tri</del>(简单题)
 3. <del>bzoj1210 [HNOI2004]邮递员</del>(基础回路插头dp)
