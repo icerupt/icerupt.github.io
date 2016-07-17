@@ -100,13 +100,21 @@ tags: ["training"]
 :   <del>D. Vanya and Computer Game</del>
 :   [E. Vanya and Field][36]
 
-11. [Codeforces Round #362 (Div. 2)][36](July 15, online)
+11. [Codeforces Round #362 (Div. 2)][37](July 15, online)
 :   <del>A. Pineapple Incident</del>
 :   <del>B. Barnicle</del>
 :   <del>C. Lorenzo Von Matterhorn</del>
 :   <del>D. Puzzles</del>(考虑兄弟一前一后对期望的影响，就知道是1/2了)
-:   E. PLEASE
-:   F. Legen...
+:   [E. PLEASE][38]
+:   [F. Legen...][39]
+
+12. [Codeforces Round #306 (Div. 2)][40](July 17, morning one hour)
+:   <del>A. Two Substrings</del>
+:   <del>B. Preparing Olympiad</del>
+:   <del>C. Divisibility by Eight</del>
+:   <del>D. Regular Bridge</del>
+:   [E. Brackets in Implications][41]
+
 
 1. <del>hdu3434 Sequence Adjustment</del>(数列差分，找数学性质)
 2. <del>bzoj1258 [CQOI2007]三角形tri</del>(简单题)
@@ -120,6 +128,12 @@ tags: ["training"]
 10. <del>bzoj4027 [HEOI2015]兔子与樱花</del>(树上不错的贪心)
 11. <del>bzoj2667 [cqoi2012]模拟工厂</del>(不错的贪心)
 12. <del>cf-468-b Two Sets</del>(并查集..这场比赛是杜教出的)
+13. <del>sgu300 Train</del>(nlogn写法一直wa，n^2找最小环)
+14. <del>sgu332 Largest Circle</del>(二分半径，半平面交)
+15. <del>bzoj1150 [CTSC2007]数据备份Backup(贪心，用堆模拟选取过程，反转)
+16. <del>bzoj2667 [cqoi2012]模拟工厂(不错的贪心)
+17. <del>sgu327 Yet Another Palindrome</del>(状态压缩)
+
 
 
 [1]: http://bestcoder.hdu.edu.cn/board.php#rd?sukey=3997c0719f151520f32ee4b650be1e9d6bdf8665cd7627c1916651d35e1efabf4f27d36b060e39fd6ab609c464469fa7
@@ -167,6 +181,13 @@ tags: ["training"]
 
 [35]: http://codeforces.com/contest/492
 [36]: http://codeforces.com/contest/492/problem/E
+
+[37]: http://codeforces.com/contest/697
+[38]: http://codeforces.com/contest/697/problem/E
+[39]: http://codeforces.com/contest/697/problem/F
+
+[40]: http://codeforces.com/contest/550
+[41]: http://codeforces.com/contest/550/problem/E 
 
 {% endraw %}
 
