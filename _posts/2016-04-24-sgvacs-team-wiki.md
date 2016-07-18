@@ -173,7 +173,7 @@ tags: ["training"]
 ## online judge
 
 1. <del>bzoj1098. poi2007 biu</del>(补图稠密图，list乱搞)
-2. [bzoj3524. poi2014 couriers][10000](区间众数, todo)
+2. <del>[bzoj3524. poi2014 couriers][10000]</del>(区间众数, 无修改可持久化线段树)
 3. <del>bzoj1532. poi2007 biu</del>(dinic可过！复杂度感人)
 4. <del>bzoj1116. poi2008 clo</del>(图论建模+并查集)
 5. <del>bzoj1106. poi2007 tet</del>(括号匹配+树状数组)
