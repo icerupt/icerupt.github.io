@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Avalon   阿瓦隆 team wiki"
+title: "Avalon - 阿瓦隆 team wiki"
 description: ""
-category:
-tags: []
+category: "Training"
+tags: ["Training"]
 ---
 {% include JB/setup %}
 {% raw %}
