@@ -19,7 +19,7 @@ tags: ["Training"]
 :  [1006. PowMod][4]
 :  [1007. Rigid Frameworks][5]
 :  [1008. Shell Necklace][6]
-:  [1009. Solid Dominoes Tilings][7]
+:  <del>[1009. Solid Dominoes Tilings][7]</del>(状压/插头dp+容斥+补集转化)
 :  [1010. Subway][8]
 :  <del>1011. tetrahedron</del>
 
