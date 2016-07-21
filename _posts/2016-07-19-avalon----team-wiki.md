@@ -15,13 +15,15 @@ tags: ["Training"]
 :  <del>1002. Chess</del>
 :  [1003. Game][2]
 :  <del>1004. GCD</del>
-:  [1005. Necklace][3]
+:  <del>[1005. Necklace][3]</del>((n-1)!枚举右部，做二分图最大匹配)
 :  [1006. PowMod][4]
 :  [1007. Rigid Frameworks][5]
 :  [1008. Shell Necklace][6]
 :  <del>[1009. Solid Dominoes Tilings][7]</del>(状压/插头dp+容斥+补集转化)
 :  [1010. Subway][8]
 :  <del>1011. tetrahedron</del>
+
+## online judge
 
 [1]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=704 
 [2]: http://acm.hdu.edu.cn/showproblem.php?pid=5725
