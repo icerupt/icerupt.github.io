@@ -23,7 +23,24 @@ tags: ["Training"]
 :  [1010. Subway][8]
 :  <del>1011. tetrahedron</del>
 
-## online judge
+2. [2016 Multi-University Training Contest 2][9](July 21)
+:  <del>1001. Acperience</del>
+:  [1002. Born Slippy][10]
+:  [1003. Call It What You Want][11]
+:  [1004. Differencia][12]
+:  [1005. Eureka][13]
+:  [1006. Fantasia][14]
+:  [1007. Glorious Brilliance][15]
+:  [1008. Helter Skelter][16]
+:  <del>1009. It's All In The Mind</del>
+:  [1010. Join The Future][17]
+:  <del>1011. Keep On Movin</del>
+:  [1012. La Vie en rose][18]
+:  [1013. Memento Mori][19]
+
+## online judge(individual)
+
+## probleams(statistics)
 
 [1]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=704 
 [2]: http://acm.hdu.edu.cn/showproblem.php?pid=5725
@@ -33,6 +50,18 @@ tags: ["Training"]
 [6]: http://acm.hdu.edu.cn/showproblem.php?pid=5730
 [7]: http://acm.hdu.edu.cn/showproblem.php?pid=5731
 [8]: http://acm.hdu.edu.cn/showproblem.php?pid=5732
+
+[9]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=705
+[10]: http://acm.hdu.edu.cn/showproblem.php?pid=5735
+[11]: http://acm.hdu.edu.cn/showproblem.php?pid=5736
+[12]: http://acm.hdu.edu.cn/showproblem.php?pid=5737
+[13]: http://acm.hdu.edu.cn/showproblem.php?pid=5738
+[14]: http://acm.hdu.edu.cn/showproblem.php?pid=5739
+[15]: http://acm.hdu.edu.cn/showproblem.php?pid=5740
+[16]: http://acm.hdu.edu.cn/showproblem.php?pid=5741
+[17]: http://acm.hdu.edu.cn/showproblem.php?pid=5743
+[18]: http://acm.hdu.edu.cn/showproblem.php?pid=5745
+[19]: http://acm.hdu.edu.cn/showproblem.php?pid=5746
 
 {% endraw %}
 
