@@ -27,7 +27,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 
 2. [2016 Multi-University Training Contest 2][9](July 21)
 :  <del>1001. Acperience</del>
-:  <del>[1002. Born Slippy][10]</del>(按位折半，相互dp，神奇的思想 \| ice)
+:  <del>[1002. Born Slippy][10]</del>(按位折半，相互dp，神奇的思想 \| ice, myt)
 :  [1003. Call It What You Want][11]
 :  [1004. Differencia][12]
 :  <del>[1005. Eureka][13]</del>(枚举点然后用unordered\_map存斜率，注意重点 \| mrb, ice)
