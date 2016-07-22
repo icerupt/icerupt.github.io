@@ -20,20 +20,20 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>[1005. Necklace][3]</del>((n-1)!枚举右部，做二分图最大匹配 \| myt, ice, mrb)
 :  [1006. PowMod][4]
 :  [1007. Rigid Frameworks][5]
-:  [1008. Shell Necklace][6]
+:  <del>[1008. Shell Necklace][6]</del>( \| myt)
 :  <del>[1009. Solid Dominoes Tilings][7]</del>(状压/插头dp+容斥+补集转化 \| ice)
 :  [1010. Subway][8]
 :  <del>1011. tetrahedron</del>
 
 2. [2016 Multi-University Training Contest 2][9](July 21)
 :  <del>1001. Acperience</del>
-:  [1002. Born Slippy][10]
+:  <del>[1002. Born Slippy][10]</del>(按位折半，相互dp，神奇的思想 \| ice)
 :  [1003. Call It What You Want][11]
 :  [1004. Differencia][12]
 :  <del>[1005. Eureka][13]</del>(枚举点然后用unordered\_map存斜率，注意重点 \| mrb, ice)
 :  [1006. Fantasia][14]
 :  [1007. Glorious Brilliance][15]
-:  [1008. Helter Skelter][16]
+:  <del>[1008. Helter Skelter][16]</del>(\| mrb, myt)
 :  <del>1009. It's All In The Mind</del>
 :  [1010. Join The Future][17]
 :  <del>1011. Keep On Movin</del>
