@@ -17,11 +17,11 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>1002. Chess</del>
 :  [1003. Game][2]
 :  <del>1004. GCD</del>
-:  <del>[1005. Necklace][3]</del>((n-1)!枚举右部，做二分图最大匹配 | myt, ice)
+:  <del>[1005. Necklace][3]</del>((n-1)!枚举右部，做二分图最大匹配 \| myt, ice)
 :  [1006. PowMod][4]
 :  [1007. Rigid Frameworks][5]
 :  [1008. Shell Necklace][6]
-:  <del>[1009. Solid Dominoes Tilings][7]</del>(状压/插头dp+容斥+补集转化 | ice)
+:  <del>[1009. Solid Dominoes Tilings][7]</del>(状压/插头dp+容斥+补集转化 \| ice)
 :  [1010. Subway][8]
 :  <del>1011. tetrahedron</del>
 
@@ -30,7 +30,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1002. Born Slippy][10]
 :  [1003. Call It What You Want][11]
 :  [1004. Differencia][12]
-:  [1005. Eureka][13]
+:  <del>[1005. Eureka][13]</del>(枚举点然后用unordered\_map存斜率，注意重点 \| mrb, ice)
 :  [1006. Fantasia][14]
 :  [1007. Glorious Brilliance][15]
 :  [1008. Helter Skelter][16]
