@@ -17,7 +17,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>1002. Chess</del>
 :  [1003. Game][2]
 :  <del>1004. GCD</del>
-:  <del>[1005. Necklace][3]</del>((n-1)!枚举右部，做二分图最大匹配 \| myt, ice)
+:  <del>[1005. Necklace][3]</del>((n-1)!枚举右部，做二分图最大匹配 \| myt, ice, mrb)
 :  [1006. PowMod][4]
 :  [1007. Rigid Frameworks][5]
 :  [1008. Shell Necklace][6]
