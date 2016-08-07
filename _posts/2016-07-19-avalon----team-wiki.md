@@ -10,6 +10,8 @@ tags: ["Training"]
 
 ice: icerupt, myt: myt, mrb: mrbird
 
+## test
+
 ## contest
 
 1. [2016 Multi-University Training Contest 1][1](July 19)
@@ -44,7 +46,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 
 ## probleams(statistics)
 
-[1]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=704 
+[1]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=704
 [2]: http://acm.hdu.edu.cn/showproblem.php?pid=5725
 [3]: http://acm.hdu.edu.cn/showproblem.php?pid=5727
 [4]: http://acm.hdu.edu.cn/showproblem.php?pid=5728
