@@ -8,6 +8,7 @@ tags: ["Training"]
 {% include JB/setup %}
 {% raw %}
 
+## member
 ice: icerupt, myt: myt, mrb: mrbird
 
 ## contest
