@@ -13,35 +13,35 @@ ice: icerupt, myt: myt, mrb: mrbird
 
 ## contest
 
-1. [2016 Multi-University Training Contest 1][1](July 19)
+1. [2016 Multi-University Training Contest 1][1] (July 19)
 :  <del>1001. Abandoned country</del>
 :  <del>1002. Chess</del>
 :  [1003. Game][2]
 :  <del>1004. GCD</del>
-:  <del>[1005. Necklace][3]</del>((n-1)!枚举右部，做二分图最大匹配 \| myt, ice, mrb)
+:  <del>[1005. Necklace][3]</del> ((n-1)!枚举右部，做二分图最大匹配 \| myt, ice, mrb)
 :  [1006. PowMod][4]
 :  [1007. Rigid Frameworks][5]
-:  <del>[1008. Shell Necklace][6]</del>( \| myt)
-:  <del>[1009. Solid Dominoes Tilings][7]</del>(状压/插头dp+容斥+补集转化 \| ice)
+:  <del>[1008. Shell Necklace][6]</del> ( \| myt)
+:  <del>[1009. Solid Dominoes Tilings][7]</del> (状压/插头dp+容斥+补集转化 \| ice)
 :  [1010. Subway][8]
 :  <del>1011. tetrahedron</del>
 
-2. [2016 Multi-University Training Contest 2][9](July 21)
+2. [2016 Multi-University Training Contest 2][9] (July 21)
 :  <del>1001. Acperience</del>
-:  <del>[1002. Born Slippy][10]</del>(按位折半，相互dp，神奇的思想 \| ice, myt)
+:  <del>[1002. Born Slippy][10]</del> (按位折半，相互dp，神奇的思想 \| ice, myt)
 :  [1003. Call It What You Want][11]
 :  [1004. Differencia][12]
-:  <del>[1005. Eureka][13]</del>(枚举点然后用unordered\_map存斜率，注意重点 \| mrb, ice)
+:  <del>[1005. Eureka][13]</del> (枚举点然后用unordered\_map存斜率，注意重点 \| mrb, ice)
 :  [1006. Fantasia][14]
 :  [1007. Glorious Brilliance][15]
-:  <del>[1008. Helter Skelter][16]</del>(\| mrb, myt)
+:  <del>[1008. Helter Skelter][16]</del> (\| mrb, myt)
 :  <del>1009. It's All In The Mind</del>
 :  [1010. Join The Future][17]
 :  <del>1011. Keep On Movin</del>
 :  [1012. La Vie en rose][18]
 :  [1013. Memento Mori][19]
 
-3. [2016 Multi-University Training Contest 3][20](July 26)
+3. [2016 Multi-University Training Contest 3][20] (July 26)
 :  <del>1001. Sqrt Bo</del>
 :  <del>1002. Permutation Bo</del>
 :  <del>1003. Life Winner Bo</del>
@@ -54,7 +54,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>1010. Rower Bo</del>
 :  <del>1011. Teacher Bo</del>
 
-4. [2016 Multi-University Training Contest 4][26](July 28)
+4. [2016 Multi-University Training Contest 4][26] (July 28)
 :  <del>1001. Another Meaning</del>
 :  [1002. After a Sleepless Night][27]
 :  [1003. Bonds][28]
@@ -68,43 +68,43 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>1011. Where Amazing Happens</del>
 :  <del>1012. Bubble Sort</del>
 
-5. [2016 Multi-University Training Contest 5][33](Aug 2)
-:  <del>[1001. ATM Mechine][34]</del>(简单的期望dp \| ice)
+5. [2016 Multi-University Training Contest 5][33] (Aug 2)
+:  <del>[1001. ATM Mechine][34]</del> (简单的期望dp \| ice)
 :  [1002. Cycle][35]
 :  <del>1003. Divide the Sequence</del>
-:  <del>[1004. How Many Triangles][36]</del>(极角序+two pointer，统计各类型角的个数 \| ice)
-:  <del>[1005. Interesting][37]</del>(manacher + 统计 \| ice)
+:  <del>[1004. How Many Triangles][36]</del> (极角序+two pointer，统计各类型角的个数 \| ice)
+:  <del>[1005. Interesting][37]</del> (manacher + 统计 \| ice)
 :  [1006. Interval][38]
-:  <del>[1007. K-wolf Number][39]</del>(数位dp \| ice)
+:  <del>[1007. K-wolf Number][39]</del> (数位dp \| ice)
 :  [1008. Level Up][40]
 :  [1009. Permutation][41]
 :  [1010. Prefix][42]
 :  <del>1011. Two</del>
 :  <del>1012. World is Exploding</del>
 
-6. [2016 Multi-University Training Contest 6][43](Aug 4)
+6. [2016 Multi-University Training Contest 6][43] (Aug 4)
 :  <del>1001. A Boring Question</del>
 :  <del>1002. A Simple Chess</del>
-:  <del>1003. A Simple Nim</del>(容斥+lucas定理 \| mrb)
+:  <del>1003. A Simple Nim</del> (容斥+lucas定理 \| mrb)
 :  [1004. Magic Number][44]
 :  [1005. Master Zhu][45]
 :  [1006. Stabilization][46]
 :  [1007. This world need more Zhu][47]
 :  [1008. To My Girlfriend][48]
 :  [1009. Up Sky,Mr.Zhu][49]
-:  <del>[1010. Windows 10][50]</del>(贪心，构造 \| myt)
+:  <del>[1010. Windows 10][50]</del> (贪心，构造 \| myt)
 :  [1011. Zhu’s Math Problem][51]
 
-## online judge(individual)
+## online judge (individual)
 
-1. <del>cf-528d. Fuzzy Search</del>(fft \| ice)
-2. <del>cf-300d. Painting Square</del>(fft \| ice)
-3. <del>cf-632e. Thief in a Shop</del>(fft \| ice)
-4. <del>cf-286e. Ladies' Shop</del>(nice fft \| ice)
-5. <del>hdu4609. 3-idiots</del>(fft \| ice)
-6. <del>hdu5307. He is Flying</del>(fft \| ice)
+1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
+2. <del>cf-300d. Painting Square</del> (fft \| ice)
+3. <del>cf-632e. Thief in a Shop</del> (fft \| ice)
+4. <del>cf-286e. Ladies' Shop</del> (nice fft \| ice)
+5. <del>hdu4609. 3-idiots</del> (fft \| ice)
+6. <del>hdu5307. He is Flying</del> (fft \| ice)
 
-## probleams(statistics)
+## probleams (statistics)
 
 [1]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=704
 [2]: http://acm.hdu.edu.cn/showproblem.php?pid=5725
