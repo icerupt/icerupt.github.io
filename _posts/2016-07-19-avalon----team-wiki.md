@@ -97,12 +97,12 @@ ice: icerupt, myt: myt, mrb: mrbird
 
 ## online judge(individual)
 
-1. <del>cf-528d. Fuzzy Search</del>(fft, \| ice)
-2. <del>cf-300d. Painting Square</del>(fft, \| ice)
-3. <del>cf-632e. Thief in a Shop</del>(fft, \| ice)
-4. <del>cf-286e. Ladies' Shop</del>(nice fft, \| ice)
-5. <del>hdu4609. 3-idiots</del>(fft, \| ice)
-6. <del>hdu5307. He is Flying</del>(fft, \| ice)
+1. <del>cf-528d. Fuzzy Search</del>(fft \| ice)
+2. <del>cf-300d. Painting Square</del>(fft \| ice)
+3. <del>cf-632e. Thief in a Shop</del>(fft \| ice)
+4. <del>cf-286e. Ladies' Shop</del>(nice fft \| ice)
+5. <del>hdu4609. 3-idiots</del>(fft \| ice)
+6. <del>hdu5307. He is Flying</del>(fft \| ice)
 
 ## probleams(statistics)
 
