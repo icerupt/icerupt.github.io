@@ -32,7 +32,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1003. Call It What You Want][11]
 :  [1004. Differencia][12]
 :  <del>[1005. Eureka][13]</del> (枚举点然后用unordered\_map存斜率，注意重点 \| mrb, ice)
-:  [1006. Fantasia][14]
+:  <del>[1006. Fantasia][14]</del> (tarjan，考虑在tarjan树上维护，很好写 \| ice)
 :  [1007. Glorious Brilliance][15]
 :  <del>[1008. Helter Skelter][16]</del> (\| mrb, myt)
 :  <del>1009. It's All In The Mind</del>
