@@ -85,7 +85,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 6. [2016 Multi-University Training Contest 6][43] (Aug 4)
 :  <del>1001. A Boring Question</del>
 :  <del>1002. A Simple Chess</del>
-:  <del>1003. A Simple Nim</del> (容斥+lucas定理 \| mrb)
+:  <del>1003. A Simple Nim</del> (容斥+lucas定理 \| mrb, ice)
 :  [1004. Magic Number][44]
 :  [1005. Master Zhu][45]
 :  [1006. Stabilization][46]
