@@ -74,7 +74,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>[1004. How Many Triangles][36]</del>(极角序+two pointer，统计各类型角的个数 \| ice)
 :  <del>[1005. Interesting][37]</del>(manacher + 统计 \| ice)
 :  [1006. Interval][38]
-:  <del>[1007. K-wolf Number][39]</del>(数位dp)
+:  <del>[1007. K-wolf Number][39]</del>(数位dp \| ice)
 :  [1008. Level Up][40]
 :  [1009. Permutation][41]
 :  [1010. Prefix][42]
@@ -91,7 +91,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1007. This world need more Zhu][47]
 :  [1008. To My Girlfriend][48]
 :  [1009. Up Sky,Mr.Zhu][49]
-:  [1010. Windows 10][50]
+:  <del>[1010. Windows 10][50]</del>(贪心，构造 \| myt)
 :  [1011. Zhu’s Math Problem][51]
 
 ## online judge(individual)
