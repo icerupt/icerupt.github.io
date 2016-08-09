@@ -103,7 +103,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>1005. Elegant Construction</del>
 :  [1006. Find the Period][56]
 :  [1007. Golden Week][57]
-:  [1008. Hearthstone][58]
+:  <del>[1008. Hearthstone][58]</del>(预处理+状压dp \| ice)
 :  [1009. Ice Walls][59]
 :  <del>1010. Joint Stacks</del>
 :  [1011. Knights][60]
