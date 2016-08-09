@@ -92,7 +92,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1007. This world need more Zhu][47]
 :  [1008. To My Girlfriend][48]
 :  [1009. Up Sky,Mr.Zhu][49]
-:  <del>[1010. Windows 10][50]</del> (贪心，构造 \| myt)
+:  <del>[1010. Windows 10][50]</del> (贪心，细节 \| myt, ice)
 :  [1011. Zhu’s Math Problem][51]
 
 ## online judge (individual)
