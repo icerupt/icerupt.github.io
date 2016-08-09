@@ -95,6 +95,20 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>[1010. Windows 10][50]</del> (贪心，细节 \| myt, ice)
 :  [1011. Zhu’s Math Problem][51]
 
+7. [2016 Multi-University Training Contest 7][52] (Aug 9)
+:  [1001. Ants][53]
+:  <del>1002. Balls and Boxes</del>
+:  [1003. Colosseo][54]
+:  [1004. Distance][55]
+:  <del>1005. Elegant Construction</del>
+:  [1006. Find the Period][56]
+:  [1007. Golden Week][57]
+:  [1008. Hearthstone][58]
+:  [1009. Ice Walls][59]
+:  <del>1010. Joint Stacks</del>
+:  [1011. Knights][60]
+:  [1012. Lights][61]
+
 ## online judge (individual)
 
 1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
@@ -162,6 +176,17 @@ ice: icerupt, myt: myt, mrb: mrbird
 [49]: http://acm.hdu.edu.cn/showproblem.php?pid=5801
 [50]: http://acm.hdu.edu.cn/showproblem.php?pid=5802
 [51]: http://acm.hdu.edu.cn/showproblem.php?pid=5803
+
+[52]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=710
+[53]: http://acm.hdu.edu.cn/showproblem.php?pid=5809
+[54]: http://acm.hdu.edu.cn/showproblem.php?pid=5811
+[55]: http://acm.hdu.edu.cn/showproblem.php?pid=5812
+[56]: http://acm.hdu.edu.cn/showproblem.php?pid=5814
+[57]: http://acm.hdu.edu.cn/showproblem.php?pid=5815
+[58]: http://acm.hdu.edu.cn/showproblem.php?pid=5816
+[59]: http://acm.hdu.edu.cn/showproblem.php?pid=5817
+[60]: http://acm.hdu.edu.cn/showproblem.php?pid=5819
+[61]: http://acm.hdu.edu.cn/showproblem.php?pid=5820
 
 {% endraw %}
 
