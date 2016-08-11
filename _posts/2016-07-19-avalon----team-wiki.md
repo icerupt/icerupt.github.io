@@ -109,6 +109,19 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1011. Knights][60]
 :  [1012. Lights][61]
 
+8. [2016 Multi-University Training Contest 8][62](Aug 11)
+:  <del>1001. Ball</del>
+:  [1002. color][63]
+:  [1003. color II][64]
+:  [1004. graph][65]
+:  [1005. permu][66]
+:  <del>1006. physics</del>
+:  [1007. Rikka with Parenthesis][67]
+:  [1008. Rikka with Sequence][68]
+:  [1009. Rikka with Subset][69]
+:  [1010. Rikka with Subset II][70]
+:  <del>1011. Rikka with Parenthesis II</del>
+
 ## online judge (individual)
 
 1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
@@ -187,6 +200,16 @@ ice: icerupt, myt: myt, mrb: mrbird
 [59]: http://acm.hdu.edu.cn/showproblem.php?pid=5817
 [60]: http://acm.hdu.edu.cn/showproblem.php?pid=5819
 [61]: http://acm.hdu.edu.cn/showproblem.php?pid=5820
+
+[62]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=711
+[63]: http://acm.hdu.edu.cn/showproblem.php?pid=5822
+[64]: http://acm.hdu.edu.cn/showproblem.php?pid=5823
+[65]: http://acm.hdu.edu.cn/showproblem.php?pid=5824
+[66]: http://acm.hdu.edu.cn/showproblem.php?pid=5825
+[67]: http://acm.hdu.edu.cn/showproblem.php?pid=5827
+[68]: http://acm.hdu.edu.cn/showproblem.php?pid=5828
+[69]: http://acm.hdu.edu.cn/showproblem.php?pid=5829
+[70]: http://acm.hdu.edu.cn/showproblem.php?pid=5830
 
 {% endraw %}
 
