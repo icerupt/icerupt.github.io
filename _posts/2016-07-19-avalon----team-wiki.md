@@ -130,6 +130,11 @@ ice: icerupt, myt: myt, mrb: mrbird
 4. <del>cf-286e. Ladies' Shop</del> (nice fft \| ice)
 5. <del>hdu4609. 3-idiots</del> (fft \| ice)
 6. <del>hdu5307. He is Flying</del> (fft \| ice)
+7. <del>sgu348. Twisting the Number</del> (构造+贪心 \| ice)
+8. <del>sgu319. Kalevich Strikes Back</del> (扫描线+建树 \| ice)
+9. <del>sgu330. Numbers</del> (数学，lowbit \| ice)
+10. <del>sgu369. Game</del> (联通性问题，并查集 \| ice)
+11. <del>sgu372. Tea Party</del> (dp \| ice)
 
 ## probleams (statistics)
 
