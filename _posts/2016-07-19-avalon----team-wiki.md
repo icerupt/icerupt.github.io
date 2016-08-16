@@ -122,6 +122,21 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1010. Rikka with Subset II][70]
 :  <del>1011. Rikka with Parenthesis II</del>
 
+9. [2016 Multi-University Training Contest 9][71](Aug 16)
+:  [1001. A Poor King][72]
+:  [1002. Best Division][73]
+:  [1003. Convex Hull][74]
+:  [1004. Different Sums][75]
+:  [1005. Easy Homework][76]
+:  [1006. Flight][77]
+:  [1007. Generator][78]
+:  [1008. Honey Tour][79]
+:  [1009. Intersection is not allowed!][80]
+:  [1010. Jong Hyok and String][81]
+:  [1011. K-th value][82]
+:  <del>1012. Less Time, More profit</del>
+:  [1013. Math is Fun][83]
+
 ## online judge (individual)
 
 1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
@@ -215,6 +230,20 @@ ice: icerupt, myt: myt, mrb: mrbird
 [68]: http://acm.hdu.edu.cn/showproblem.php?pid=5828
 [69]: http://acm.hdu.edu.cn/showproblem.php?pid=5829
 [70]: http://acm.hdu.edu.cn/showproblem.php?pid=5830
+
+[71]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=712
+[72]: http://acm.hdu.edu.cn/showproblem.php?pid=5844
+[73]: http://acm.hdu.edu.cn/showproblem.php?pid=5845
+[74]: http://acm.hdu.edu.cn/showproblem.php?pid=5846
+[75]: http://acm.hdu.edu.cn/showproblem.php?pid=5847
+[76]: http://acm.hdu.edu.cn/showproblem.php?pid=5848
+[77]: http://acm.hdu.edu.cn/showproblem.php?pid=5849
+[78]: http://acm.hdu.edu.cn/showproblem.php?pid=5850
+[79]: http://acm.hdu.edu.cn/showproblem.php?pid=5851
+[80]: http://acm.hdu.edu.cn/showproblem.php?pid=5852
+[81]: http://acm.hdu.edu.cn/showproblem.php?pid=5853
+[82]: http://acm.hdu.edu.cn/showproblem.php?pid=5854
+[83]: http://acm.hdu.edu.cn/showproblem.php?pid=5856
 
 {% endraw %}
 
