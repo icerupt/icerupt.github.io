@@ -126,7 +126,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1001. A Poor King][72]
 :  [1002. Best Division][73]
 :  [1003. Convex Hull][74]
-:  [1004. Different Sums][75]
+:  <del>[1004. Different Sums][75]</del>(数学，很难的构造 \| ice)
 :  [1005. Easy Homework][76]
 :  [1006. Flight][77]
 :  [1007. Generator][78]
