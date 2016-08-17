@@ -63,7 +63,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>1006. Substring</del>
 :  [1007. Treasure][30]
 :  [1008. Turn Game][31]
-:  [1009. String problem][32]
+:  <del>[1009. String problem][32]</del>(最大闭合权图 \| ice)
 :  <del>1010. The All-purpose Zero</del>
 :  <del>1011. Where Amazing Happens</del>
 :  <del>1012. Bubble Sort</del>
