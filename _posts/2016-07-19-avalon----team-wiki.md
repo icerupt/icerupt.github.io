@@ -124,7 +124,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 
 9. [2016 Multi-University Training Contest 9][71](Aug 16)
 :  [1001. A Poor King][72]
-:  [1002. Best Division][73]
+:  <del>[1002. Best Division][73]</del>(trie+dp+multiset \| myt)
 :  [1003. Convex Hull][74]
 :  <del>[1004. Different Sums][75]</del>(数学，很难的构造 \| ice)
 :  [1005. Easy Homework][76]
