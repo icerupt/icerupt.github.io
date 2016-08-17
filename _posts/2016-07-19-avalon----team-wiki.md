@@ -131,7 +131,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1006. Flight][77]
 :  [1007. Generator][78]
 :  [1008. Honey Tour][79]
-:  [1009. Intersection is not allowed!][80]
+:  <del>[1009. Intersection is not allowed!][80]</del>(容斥，逆序对转为行列式 \| ice)
 :  [1010. Jong Hyok and String][81]
 :  [1011. K-th value][82]
 :  <del>1012. Less Time, More profit</del>
