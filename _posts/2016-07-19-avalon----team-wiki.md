@@ -137,6 +137,19 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>1012. Less Time, More profit</del>
 :  [1013. Math is Fun][83]
 
+10. [2016 Multi-University Training Contest 10][84]
+:  <del>1001. Median</del>
+:  <del>1002. Hard problem</del>
+:  [1003. Captain is coding][85]
+:  <del>1004. Death Sequence</del>
+:  <del>1005. Road</del>
+:  <del>1006. Counting Intersections</del>
+:  <del>1007. cjj's string game</del>
+:  [1008. Cube again][86]
+:  [1009. Stone game][87]
+:  [1010. Lucky E][88]
+:  <del>1011. Water problem</del>
+
 ## online judge (individual)
 
 1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
@@ -244,6 +257,12 @@ ice: icerupt, myt: myt, mrb: mrbird
 [81]: http://acm.hdu.edu.cn/showproblem.php?pid=5853
 [82]: http://acm.hdu.edu.cn/showproblem.php?pid=5854
 [83]: http://acm.hdu.edu.cn/showproblem.php?pid=5856
+
+[84]: http://acm.split.hdu.edu.cn/contests/contest_show.php?cid=713
+[85]: http://acm.split.hdu.edu.cn/showproblem.php?pid=5859
+[86]: http://acm.split.hdu.edu.cn/showproblem.php?pid=5864
+[87]: http://acm.split.hdu.edu.cn/showproblem.php?pid=5865
+[88]: http://acm.split.hdu.edu.cn/showproblem.php?pid=5866
 
 {% endraw %}
 
