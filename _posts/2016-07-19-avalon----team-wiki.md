@@ -150,6 +150,8 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1010. Lucky E][88]
 :  <del>1011. Water problem</del>
 
+11. test by mrb
+
 ## online judge (individual)
 
 1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
