@@ -21,7 +21,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>[1005. Necklace][3]</del> ((n-1)!枚举右部，做二分图最大匹配 \| myt, ice, mrb)
 :  [1006. PowMod][4]
 :  [1007. Rigid Frameworks][5]
-:  <del>[1008. Shell Necklace][6]</del> ( \| myt)
+:  <del>[1008. Shell Necklace][6]</del> (cdq + fft \| myt)
 :  <del>[1009. Solid Dominoes Tilings][7]</del> (状压/插头dp+容斥+补集转化 \| ice)
 :  [1010. Subway][8]
 :  <del>1011. tetrahedron</del>
@@ -156,13 +156,20 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>C. Colder-Hotter</del>
 :  <del>D. Delay Time</del>
 :  [E. Entertainment][91]
-:  [F. Flow Management][91]
+:  [F. Flow Management][92]
 :  <del>[G. Garden Gathering][93]</del>(类曼哈顿距离 | mrb)
 :  <del>H. Hashing</del>
 :  <del>I. Illegal or Not?</del>
 :  [J. Jealousy][94]
 :  <del>K. King's Rout</del>
 :  [L. Locomotive][95]
+
+12. [Codeforces Round #152 (Div. 1)][96]
+:  <del>A. Robo-Footballer1</del>
+:  <del>B. Sweets for Everyone!1</del>(二分 + 贪心 | ice)
+:  [C. Piglet's Birthday1][97]
+:  [D. Donkey and Stars1][98]
+:  [E. Endless Matrix1][99]
 
 ## online judge (individual)
 
@@ -277,6 +284,20 @@ ice: icerupt, myt: myt, mrb: mrbird
 [86]: http://acm.split.hdu.edu.cn/showproblem.php?pid=5864
 [87]: http://acm.split.hdu.edu.cn/showproblem.php?pid=5865
 [88]: http://acm.split.hdu.edu.cn/showproblem.php?pid=5866
+
+[89]: http://codeforces.com/gym/100792
+[90]: http://codeforces.com/gym/100792/problem/B
+[91]: http://codeforces.com/gym/100792/problem/E
+[92]: http://codeforces.com/gym/100792/problem/F
+[93]: http://codeforces.com/gym/100792/problem/G
+[94]: http://codeforces.com/gym/100792/problem/J
+[95]: http://codeforces.com/gym/100792/problem/L
+
+[96]: http://codeforces.com/contest/249
+[97]: http://codeforces.com/contest/249/problem/C
+[98]: http://codeforces.com/contest/249/problem/D
+[98]: http://codeforces.com/contest/249/problem/E
+
 
 {% endraw %}
 
