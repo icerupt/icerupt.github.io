@@ -137,7 +137,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>1012. Less Time, More profit</del>
 :  [1013. Math is Fun][83]
 
-10. [2016 Multi-University Training Contest 10][84]
+10. [2016 Multi-University Training Contest 10][84](Aug 18)
 :  <del>1001. Median</del>
 :  <del>1002. Hard problem</del>
 :  [1003. Captain is coding][85]
@@ -150,7 +150,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1010. Lucky E][88]
 :  <del>1011. Water problem</del>
 
-11. [2015-2016 ACM-ICPC, NEERC, Moscow Subregional Contest][89]
+11. [2015-2016 ACM-ICPC, NEERC, Moscow Subregional Contest][89](Aug 27)
 :  <del>A. Anagrams</del>
 :  [B. Banana Brain's Bracelet][90]
 :  <del>C. Colder-Hotter</del>
@@ -164,7 +164,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>K. King's Rout</del>
 :  [L. Locomotive][95]
 
-12. [Codeforces Round #152 (Div. 1)][96]
+12. [Codeforces Round #152 (Div. 1)][96](Aug 31)
 :  <del>A. Robo-Footballer1</del>
 :  <del>B. Sweets for Everyone!1</del>(二分 + 贪心 | ice)
 :  [C. Piglet's Birthday1][97]
