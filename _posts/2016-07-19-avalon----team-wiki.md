@@ -296,7 +296,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 [96]: http://codeforces.com/contest/249
 [97]: http://codeforces.com/contest/249/problem/C
 [98]: http://codeforces.com/contest/249/problem/D
-[98]: http://codeforces.com/contest/249/problem/E
+[99]: http://codeforces.com/contest/249/problem/E
 
 
 {% endraw %}
