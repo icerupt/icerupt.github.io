@@ -150,6 +150,20 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1010. Lucky E][88]
 :  <del>1011. Water problem</del>
 
+11. [2015-2016 ACM-ICPC, NEERC, Moscow Subregional Contest][89]
+:  <del>A. Anagrams</del>
+:  [B. Banana Brain's Bracelet][90]
+:  <del>C. Colder-Hotter</del>
+:  <del>D. Delay Time</del>
+:  [E. Entertainment][91]
+:  [F. Flow Management][91]
+:  <del>[G. Garden Gathering][93]</del>(类曼哈顿距离 | mrb)
+:  <del>H. Hashing</del>
+:  <del>I. Illegal or Not?</del>
+:  [J. Jealousy][94]
+:  <del>K. King's Rout</del>
+:  [L. Locomotive][95]
+
 ## online judge (individual)
 
 1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
