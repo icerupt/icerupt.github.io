@@ -178,7 +178,18 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [D. Tavas in Kansas][102]
 :  [E. Tavas on the Path][103]
 
-14. [2015-2016 ACM-ICPC Northeastern European Regional Contest (NEERC 15)][104](Sep 04)
+14. [PKU Campus 2009][114](Sep 03)
+:   <del>1001. Escape</del>
+:   [1002. Paint Me Less][115]
+:   [1003. Shadow Area][116]
+:   <del>1004. Blocks</del>
+:   <del>1005. Training little cats</del>
+:   <del>1006. Snipe the Sniper</del>
+:   <del>1007. UmBasketella</del>
+:   [1008. Card Game][117]
+:   <del>1009. Special Squares</del>
+
+15. [2015-2016 ACM-ICPC Northeastern European Regional Contest (NEERC 15)][104](Sep 04)
 :   <del>A. Adjustment Office</del>
 :   [B. Binary vs Decimal][105]
 :   [C. Cactus Jubilee][106]
@@ -191,17 +202,6 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   <del>[J. Jump][111]</del>(随机化取到地一个产生 n/2 的结果 \| mrb)
 :   [K. King's Inspection][112]
 :   [L. Landscape Improved][113]
-
-15. [PKU Campus 2009][114]
-:   <del>1001. Escape</del>
-:   [1002. Paint Me Less][115]
-:   [1003. Shadow Area][116]
-:   <del>1004. Blocks</del>
-:   <del>1005. Training little cats</del>
-:   <del>1006. Snipe the Sniper</del>
-:   <del>1007. UmBasketella</del>
-:   [1008. Card Game][117]
-:   <del>1009. Special Squares</del>
 
 ## online judge (individual)
 
