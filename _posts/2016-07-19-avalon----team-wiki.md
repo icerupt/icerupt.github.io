@@ -192,6 +192,17 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   [K. King's Inspection][112]
 :   [L. Landscape Improved][113]
 
+15. [PKU Campus 2009][114]
+:   <del>1001. Escape</del>
+:   [1002. Paint Me Less][115]
+:   [1003. Shadow Area][116]
+:   <del>1004. Blocks</del>
+:   <del>1005. Training little cats</del>
+:   <del>1006. Snipe the Sniper</del>
+:   <del>1007. UmBasketella</del>
+:   [1008. Card Game][117]
+:   <del>1009. Special Squares</del>
+
 ## online judge (individual)
 
 1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
@@ -323,6 +334,22 @@ ice: icerupt, myt: myt, mrb: mrbird
 [101]: http://codeforces.com/contest/536/problem/C
 [102]: http://codeforces.com/contest/536/problem/D
 [103]: http://codeforces.com/contest/536/problem/E
+
+[104]: http://codeforces.com/gym/100851
+[105]: http://codeforces.com/gym/100851/problem/B
+[106]: http://codeforces.com/gym/100851/problem/C
+[107]: http://codeforces.com/gym/100851/problem/D
+[108]: http://codeforces.com/gym/100851/problem/F
+[109]: http://codeforces.com/gym/100851/problem/H
+[110]: http://codeforces.com/gym/100851/problem/I
+[111]: http://codeforces.com/gym/100851/problem/J
+[112]: http://codeforces.com/gym/100851/problem/K
+[113]: http://codeforces.com/gym/100851/problem/L
+
+[114]: http://poj.org/searchproblem?field=source&key=PKU+Campus+2009+%28POJ+Monthly+Contest+%E2%80%93+2009.05.17%29
+[115]: http://poj.org/problem?id=3732
+[116]: http://poj.org/problem?id=3733
+[117]: http://poj.org/problem?id=3738
 
 {% endraw %}
 
