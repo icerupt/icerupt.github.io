@@ -157,7 +157,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>D. Delay Time</del>
 :  [E. Entertainment][91]
 :  [F. Flow Management][92]
-:  <del>[G. Garden Gathering][93]</del>(类曼哈顿距离 | mrb)
+:  <del>[G. Garden Gathering][93]</del>(类曼哈顿距离 \| mrb)
 :  <del>H. Hashing</del>
 :  <del>I. Illegal or Not?</del>
 :  [J. Jealousy][94]
@@ -166,7 +166,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 
 12. [Codeforces Round #152 (Div. 1)][96](Aug 31)
 :  <del>A. Robo-Footballer1</del>
-:  <del>B. Sweets for Everyone!1</del>(二分 + 贪心 | ice)
+:  <del>B. Sweets for Everyone!1</del>(二分 + 贪心 \| ice)
 :  [C. Piglet's Birthday1][97]
 :  [D. Donkey and Stars1][98]
 :  [E. Endless Matrix1][99]
@@ -174,7 +174,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 13. [Codeforces Round #299 (Div. 1)][100](Sep 02)
 :  <del>A. Tavas and Karafs</del>
 :  <del>B. Tavas and Malekas</del>
-:  <del>[C. Tavas and Pashmaks][101]</del>(半平面交，下半平面 | mrb)
+:  <del>[C. Tavas and Pashmaks][101]</del>(半平面交，下半平面 \| mrb)
 :  [D. Tavas in Kansas][102]
 :  [E. Tavas on the Path][103]
 
@@ -184,11 +184,11 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   [C. Cactus Jubilee][106]
 :   [D. Distance on Triangulation][107]
 :   <del>E. Easy Problemset</del>
-:   <del>[F. Froggy Ford][108]</del>(简单的二分答案+判断，比赛时代码写抽 | ice)
+:   <del>[F. Froggy Ford][108]</del>(简单的二分答案+判断，比赛时代码写抽 \| ice)
 :   <del>G. Generators</del>
 :   [H. Hypercube][109]
 :   [I. Iceberg Orders][110]
-:   <del>[J. Jump][111]</del>(随机化取到地一个产生 n/2 的结果 | mrb)
+:   <del>[J. Jump][111]</del>(随机化取到地一个产生 n/2 的结果 \| mrb)
 :   [K. King's Inspection][112]
 :   [L. Landscape Improved][113]
 
