@@ -171,6 +171,13 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [D. Donkey and Stars1][98]
 :  [E. Endless Matrix1][99]
 
+13. [Codeforces Round #299 (Div. 1)][100](Sep 02)
+:  <del>A. Tavas and Karafs</del>
+:  <del>B. Tavas and Malekas</del>
+:  <del>[C. Tavas and Pashmaks][101]</del>(半平面交，下半平面 | mrb)
+:  [D. Tavas in Kansas][102]
+:  [E. Tavas on the Path][103]
+
 ## online judge (individual)
 
 1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
