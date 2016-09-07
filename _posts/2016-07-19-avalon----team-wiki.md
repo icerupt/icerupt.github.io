@@ -178,6 +178,20 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [D. Tavas in Kansas][102]
 :  [E. Tavas on the Path][103]
 
+14. [2015-2016 ACM-ICPC Northeastern European Regional Contest (NEERC 15)][104](Sep 04)
+:   <del>A. Adjustment Office</del>
+:   [B. Binary vs Decimal][105]
+:   [C. Cactus Jubilee][106]
+:   [D. Distance on Triangulation][107]
+:   <del>E. Easy Problemset</del>
+:   <del>[F. Froggy Ford][108]</del>(简单的二分答案+判断，比赛时代码写抽 | ice)
+:   <del>G. Generators</del>
+:   [H. Hypercube][109]
+:   [I. Iceberg Orders][110]
+:   <del>[J. Jump][111]</del>(随机化取到地一个产生 n/2 的结果 | mrb)
+:   [K. King's Inspection][112]
+:   [L. Landscape Improved][113]
+
 ## online judge (individual)
 
 1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
@@ -305,6 +319,10 @@ ice: icerupt, myt: myt, mrb: mrbird
 [98]: http://codeforces.com/contest/249/problem/D
 [99]: http://codeforces.com/contest/249/problem/E
 
+[100]: http://codeforces.com/contest/536
+[101]: http://codeforces.com/contest/536/problem/C
+[102]: http://codeforces.com/contest/536/problem/D
+[103]: http://codeforces.com/contest/536/problem/E
 
 {% endraw %}
 
