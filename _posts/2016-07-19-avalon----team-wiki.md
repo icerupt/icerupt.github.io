@@ -203,6 +203,14 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   [K. King's Inspection][112]
 :   [L. Landscape Improved][113]
 
+16. [Codeforces Round #366 (Div. 2)][118](Aug 07)
+:   <del>A. Hulk</del>
+:   <del>B. Spider Man</del>
+:   <del>C. Thor</del>
+:   [D. Ant Man][119]
+:   [E. Black Widow][120]
+
+
 ## online judge (individual)
 
 1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
@@ -350,6 +358,11 @@ ice: icerupt, myt: myt, mrb: mrbird
 [115]: http://poj.org/problem?id=3732
 [116]: http://poj.org/problem?id=3733
 [117]: http://poj.org/problem?id=3738
+
+[118]: http://codeforces.com/contest/705
+[119]: http://codeforces.com/contest/705/problem/D
+[120]: http://codeforces.com/contest/705/problem/E
+
 
 {% endraw %}
 
