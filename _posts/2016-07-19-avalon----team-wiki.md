@@ -210,6 +210,21 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   [D. Ant Man][119]
 :   [E. Black Widow][120]
 
+17. [Codeforces Round #369 (Div. 2)][121](Aug 29)
+:   <del>A. Bus to Udayland</del>
+:   <del>B. Chris and Magic Square</del>
+:   [C. Coloring Trees][122]
+:   <del>D. Directed Roads</del>
+:   [E. ZS and The Birthday Paradox][123]
+
+18. [Codeforces Round #372 (Div. 2)][124]
+:   <del>A. Crazy Computer</del>
+:   <del>B. Complete the Word</del>
+:   <del>C. Plus and Square Root</del>
+:   [D. Complete The Graph][125]
+:   [E. Digit Tree][126]
+
+
 
 ## online judge (individual)
 
@@ -363,6 +378,13 @@ ice: icerupt, myt: myt, mrb: mrbird
 [119]: http://codeforces.com/contest/705/problem/D
 [120]: http://codeforces.com/contest/705/problem/E
 
+[121]: http://codeforces.com/contest/711
+[122]: http://codeforces.com/contest/711/problem/C
+[123]: http://codeforces.com/contest/711/problem/E
+
+[124]: http://codeforces.com/contest/716
+[125]: http://codeforces.com/contest/716/problem/D
+[126]: http://codeforces.com/contest/716/problem/E
 
 {% endraw %}
 
