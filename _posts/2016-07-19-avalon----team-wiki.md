@@ -217,14 +217,63 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   <del>D. Directed Roads</del>
 :   [E. ZS and The Birthday Paradox][123]
 
-18. [Codeforces Round #372 (Div. 2)][124]
+18. [Codeforces Round #372 (Div. 2)][124](Sep 17)
 :   <del>A. Crazy Computer</del>
 :   <del>B. Complete the Word</del>
 :   <del>C. Plus and Square Root</del>
 :   [D. Complete The Graph][125]
 :   [E. Digit Tree][126]
 
+19. [2016 ACM/ICPC Asia Regional Dalian Online][127](Sep 10)
+:  [1001. Different Circle Permutation][128]
+:  [1002. Different GCD Subarray Query][129]
+:  [1003. Alice's Adventure in Wonderland][130]
+:  [1004. Number of Connected Subgraph][131]
+:  [1005. Seats][132]
+:  <del>1006. Football Games</del>
+:  <del>1007. Friends and Enemies</del>
+:  <del>1008. Function</del>
+:  <del>1009. Sparse Graph</del>
+:  <del>1010. Weak Pair</del>
 
+20. [2016 ACM/ICPC Asia Regional Qingdao Online][133](Sep 17)
+:  <del>1001. I Count Two Three</del>
+:  <del>1002. Cure</del>
+:  [1003. Family View][134]
+:  <del>1004. Tea</del>
+:  <del>1005. Balanced Game</del>
+:  <del>1006. The Best Path</del>
+:  <del>1007. Sort</del>
+:  [1008. XM Reserves][135]
+:  [1009. Tower Defence][136]
+:  [1010. Herbs Gathering][137]
+:  <del>1011. Barricade</del>
+:  [1012. Eighty seven][138]
+:  [1013. String][139]
+
+21. [2016 ACM/ICPC Asia Regional Shenyang Online][140](Sep 18)
+:  [1001. Resident Evil][141]
+:  [1002. List wants to travel][142]
+:  [1003. hannnnah_j’s Biological Test][143]
+:  [1004. Mathematician QSC][144]
+:  [1005. Running King][145]
+:  [1006. The Game][146]
+:  <del>1007. odd-even number</del>
+:  [1008. oasis in desert][147]
+:  <del>1009. QSC and Master</del>
+:  <del>1010. Count primes</del>
+
+22. [ACM-ICPC国际大学生程序设计竞赛北京赛区(2016)网络赛][148](Sep 27)
+:   <del>A. The Book List</del>
+:   [B. Genius ACM][149]
+:   <del>C. A Simple Job</del>
+:   [D. Pick Your Players][150]
+:   [E. A Research on "The Hundred Family Surnames"][151]
+:   [F. Periodic Signal][152]
+:   [G. Sewage Treatment][153]
+:   [H. Ada's Needle Experiment][154]
+:   [I. Countries][155]
+:   [J. War Chess][156]
 
 ## online judge (individual)
 
@@ -385,6 +434,40 @@ ice: icerupt, myt: myt, mrb: mrbird
 [124]: http://codeforces.com/contest/716
 [125]: http://codeforces.com/contest/716/problem/D
 [126]: http://codeforces.com/contest/716/problem/E
+
+[127]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=725
+[128]: http://acm.hdu.edu.cn/showproblem.php?pid=5868
+[129]: http://acm.hdu.edu.cn/showproblem.php?pid=5869
+[130]: http://acm.hdu.edu.cn/showproblem.php?pid=5870
+[131]: http://acm.hdu.edu.cn/showproblem.php?pid=5871
+[132]: http://acm.hdu.edu.cn/showproblem.php?pid=5872
+
+[133]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=723
+[134]: http://acm.hdu.edu.cn/showproblem.php?pid=5880
+[135]: http://acm.hdu.edu.cn/showproblem.php?pid=5885
+[136]: http://acm.hdu.edu.cn/showproblem.php?pid=5886
+[137]: http://acm.hdu.edu.cn/showproblem.php?pid=5887
+[138]: http://acm.hdu.edu.cn/showproblem.php?pid=5890
+[139]: http://acm.hdu.edu.cn/showproblem.php?pid=5891
+
+[140]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=724
+[141]: http://acm.hdu.edu.cn/showproblem.php?pid=5892
+[142]: http://acm.hdu.edu.cn/showproblem.php?pid=5893
+[143]: http://acm.hdu.edu.cn/showproblem.php?pid=5894
+[144]: http://acm.hdu.edu.cn/showproblem.php?pid=5895
+[145]: http://acm.hdu.edu.cn/showproblem.php?pid=5896
+[146]: http://acm.hdu.edu.cn/showproblem.php?pid=5897
+[147]: http://acm.hdu.edu.cn/showproblem.php?pid=5899
+
+[148]: https://hihocoder.com/contest/acmicpc2016beijingonline/problems
+[149]: https://hihocoder.com/contest/acmicpc2016beijingonline/problem/2
+[150]: https://hihocoder.com/contest/acmicpc2016beijingonline/problem/4
+[151]: https://hihocoder.com/contest/acmicpc2016beijingonline/problem/5
+[152]: https://hihocoder.com/contest/acmicpc2016beijingonline/problem/6
+[153]: https://hihocoder.com/contest/acmicpc2016beijingonline/problem/7
+[154]: https://hihocoder.com/contest/acmicpc2016beijingonline/problem/8
+[155]: https://hihocoder.com/contest/acmicpc2016beijingonline/problem/9
+[156]: https://hihocoder.com/contest/acmicpc2016beijingonline/problem/10
 
 {% endraw %}
 
