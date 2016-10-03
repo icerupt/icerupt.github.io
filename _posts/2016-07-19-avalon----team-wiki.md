@@ -95,6 +95,13 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>[1010. Windows 10][50]</del> (贪心，细节 \| myt, ice)
 :  [1011. Zhu’s Math Problem][51]
 
+16. [Codeforces Round #366 (Div. 2)][118](Aug 7)
+:   <del>A. Hulk</del>
+:   <del>B. Spider Man</del>
+:   <del>C. Thor</del>
+:   [D. Ant Man][119]
+:   [E. Black Widow][120]
+
 7. [2016 Multi-University Training Contest 7][52] (Aug 9)
 :  [1001. Ants][53]
 :  <del>1002. Balls and Boxes</del>
@@ -164,6 +171,13 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>K. King's Rout</del>
 :  [L. Locomotive][95]
 
+17. [Codeforces Round #369 (Div. 2)][121](Aug 29)
+:   <del>A. Bus to Udayland</del>
+:   <del>B. Chris and Magic Square</del>
+:   [C. Coloring Trees][122]
+:   <del>D. Directed Roads</del>
+:   [E. ZS and The Birthday Paradox][123]
+
 12. [Codeforces Round #152 (Div. 1)][96](Aug 31)
 :  <del>A. Robo-Footballer1</del>
 :  <del>B. Sweets for Everyone!1</del>(二分 + 贪心 \| ice)
@@ -203,27 +217,6 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   [K. King's Inspection][112]
 :   [L. Landscape Improved][113]
 
-16. [Codeforces Round #366 (Div. 2)][118](Aug 07)
-:   <del>A. Hulk</del>
-:   <del>B. Spider Man</del>
-:   <del>C. Thor</del>
-:   [D. Ant Man][119]
-:   [E. Black Widow][120]
-
-17. [Codeforces Round #369 (Div. 2)][121](Aug 29)
-:   <del>A. Bus to Udayland</del>
-:   <del>B. Chris and Magic Square</del>
-:   [C. Coloring Trees][122]
-:   <del>D. Directed Roads</del>
-:   [E. ZS and The Birthday Paradox][123]
-
-18. [Codeforces Round #372 (Div. 2)][124](Sep 17)
-:   <del>A. Crazy Computer</del>
-:   <del>B. Complete the Word</del>
-:   <del>C. Plus and Square Root</del>
-:   [D. Complete The Graph][125]
-:   [E. Digit Tree][126]
-
 19. [2016 ACM/ICPC Asia Regional Dalian Online][127](Sep 10)
 :  [1001. Different Circle Permutation][128]
 :  [1002. Different GCD Subarray Query][129]
@@ -251,6 +244,13 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1012. Eighty seven][138]
 :  [1013. String][139]
 
+18. [Codeforces Round #372 (Div. 2)][124](Sep 17)
+:   <del>A. Crazy Computer</del>
+:   <del>B. Complete the Word</del>
+:   <del>C. Plus and Square Root</del>
+:   [D. Complete The Graph][125]
+:   [E. Digit Tree][126]
+
 21. [2016 ACM/ICPC Asia Regional Shenyang Online][140](Sep 18)
 :  [1001. Resident Evil][141]
 :  [1002. List wants to travel][142]
@@ -274,6 +274,36 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   [H. Ada's Needle Experiment][154]
 :   [I. Countries][155]
 :   [J. War Chess][156]
+
+23. [2007-2008 ACM-ICPC, Central European Regional Contest 2007 (CERC 07)][157](Sep 28)
+:   <del>B. Strange Billboard</del>
+:   [C. Phone Cell][158]
+:   [H. Hexagonal Parcels][159]
+:   <del>K. Key Task</del>
+:   [L. Gates of Logic][160]
+:   <del>N. Weird Numbers</del>
+:   [P. Rectangular Polygons][161]
+:   <del>R. Reaux! Sham! Beaux!</del>
+:   [S. Robotic Sort][162]
+:   [W. Tough Water Level][163]
+:   <del>X. Investing at the Market</del>
+:   <del>Y. Get to Work</del>
+:   <del>Z. Dance Around The Clock</del>
+
+24. [Codeforces Round #374 (Div. 2)][164](Sep 30)
+:   <del>A. One-dimensional Japanese Crossword</del>
+:   <del>B. Passwords</del>
+:   <del>C. Journey</del>
+:   <del>D. Maxim and Array</del>
+:   [E. Road to Home][165]
+
+25. [Intel Code Challenge Elimination Round (Div.1 + Div.2, combined)][166](Oct 1)
+:   <del>A Broken Clock</del>
+:   <del>B Verse Pattern</del>
+:   <del>C Destroying Array</del>
+:   <del>D Generating Sets</del>
+:   [E Research Rover][167]
+:   [F Cyclic Cipher][168]
 
 ## online judge (individual)
 
@@ -468,6 +498,21 @@ ice: icerupt, myt: myt, mrb: mrbird
 [154]: https://hihocoder.com/contest/acmicpc2016beijingonline/problem/8
 [155]: https://hihocoder.com/contest/acmicpc2016beijingonline/problem/9
 [156]: https://hihocoder.com/contest/acmicpc2016beijingonline/problem/10
+
+[157]: http://codeforces.com/gym/101095
+[158]: http://codeforces.com/gym/101095/problem/C
+[159]: http://codeforces.com/gym/101095/problem/H
+[160]: http://codeforces.com/gym/101095/problem/L
+[161]: http://codeforces.com/gym/101095/problem/P
+[162]: http://codeforces.com/gym/101095/problem/S
+[163]: http://codeforces.com/gym/101095/problem/W
+
+[164]: http://codeforces.com/contest/721
+[165]: http://codeforces.com/contest/721/problem/E
+
+[166]: http://codeforces.com/contest/722
+[167]: http://codeforces.com/contest/722/problem/E
+[168]: http://codeforces.com/contest/722/problem/F
 
 {% endraw %}
 
