@@ -543,7 +543,8 @@ ice: icerupt, myt: myt, mrb: mrbird
 [172]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=728
 [173]: http://acm.hdu.edu.cn/showproblem.php?pid=5911
 [174]: http://acm.hdu.edu.cn/showproblem.php?pid=5913
-[175]: http://acm.hdu.edu.cn/showproblem.php?pid=5921
+[175]: http://acm.hdu.edu.cn/showproblem.php?pid=5915
+[176]: http://acm.hdu.edu.cn/showproblem.php?pid=5921
 
 {% endraw %}
 
