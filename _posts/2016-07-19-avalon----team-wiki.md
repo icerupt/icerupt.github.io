@@ -95,14 +95,14 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>[1010. Windows 10][50]</del> (贪心，细节 \| myt, ice)
 :  [1011. Zhu’s Math Problem][51]
 
-16. [Codeforces Round #366 (Div. 2)][118](Aug 7)
+7. [Codeforces Round #366 (Div. 2)][118](Aug 7)
 :   <del>A. Hulk</del>
 :   <del>B. Spider Man</del>
 :   <del>C. Thor</del>
 :   [D. Ant Man][119]
 :   [E. Black Widow][120]
 
-7. [2016 Multi-University Training Contest 7][52] (Aug 9)
+8. [2016 Multi-University Training Contest 7][52] (Aug 9)
 :  [1001. Ants][53]
 :  <del>1002. Balls and Boxes</del>
 :  [1003. Colosseo][54]
@@ -116,7 +116,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1011. Knights][60]
 :  [1012. Lights][61]
 
-8. [2016 Multi-University Training Contest 8][62](Aug 11)
+9. [2016 Multi-University Training Contest 8][62](Aug 11)
 :  <del>1001. Ball</del>
 :  [1002. color][63]
 :  [1003. color II][64]
@@ -129,7 +129,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1010. Rikka with Subset II][70]
 :  <del>1011. Rikka with Parenthesis II</del>
 
-9. [2016 Multi-University Training Contest 9][71](Aug 16)
+10. [2016 Multi-University Training Contest 9][71](Aug 16)
 :  [1001. A Poor King][72]
 :  <del>[1002. Best Division][73]</del>(trie+dp+multiset \| myt)
 :  [1003. Convex Hull][74]
@@ -144,7 +144,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>1012. Less Time, More profit</del>
 :  [1013. Math is Fun][83]
 
-10. [2016 Multi-University Training Contest 10][84](Aug 18)
+11. [2016 Multi-University Training Contest 10][84](Aug 18)
 :  <del>1001. Median</del>
 :  <del>1002. Hard problem</del>
 :  [1003. Captain is coding][85]
@@ -157,7 +157,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1010. Lucky E][88]
 :  <del>1011. Water problem</del>
 
-11. [2015-2016 ACM-ICPC, NEERC, Moscow Subregional Contest][89](Aug 27)
+12. [2015-2016 ACM-ICPC, NEERC, Moscow Subregional Contest][89](Aug 27)
 :  <del>A. Anagrams</del>
 :  [B. Banana Brain's Bracelet][90]
 :  <del>C. Colder-Hotter</del>
@@ -171,28 +171,28 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>K. King's Rout</del>
 :  [L. Locomotive][95]
 
-17. [Codeforces Round #369 (Div. 2)][121](Aug 29)
+13. [Codeforces Round #369 (Div. 2)][121](Aug 29)
 :   <del>A. Bus to Udayland</del>
 :   <del>B. Chris and Magic Square</del>
 :   [C. Coloring Trees][122]
 :   <del>D. Directed Roads</del>
 :   [E. ZS and The Birthday Paradox][123]
 
-12. [Codeforces Round #152 (Div. 1)][96](Aug 31)
+14. [Codeforces Round #152 (Div. 1)][96](Aug 31)
 :  <del>A. Robo-Footballer1</del>
 :  <del>B. Sweets for Everyone!1</del>(二分 + 贪心 \| ice)
 :  [C. Piglet's Birthday1][97]
 :  [D. Donkey and Stars1][98]
 :  [E. Endless Matrix1][99]
 
-13. [Codeforces Round #299 (Div. 1)][100](Sep 02)
+15. [Codeforces Round #299 (Div. 1)][100](Sep 02)
 :  <del>A. Tavas and Karafs</del>
 :  <del>B. Tavas and Malekas</del>
 :  <del>[C. Tavas and Pashmaks][101]</del>(半平面交，下半平面 \| mrb)
 :  [D. Tavas in Kansas][102]
 :  [E. Tavas on the Path][103]
 
-14. [PKU Campus 2009][114](Sep 03)
+16. [PKU Campus 2009][114](Sep 03)
 :   <del>1001. Escape</del>
 :   [1002. Paint Me Less][115]
 :   [1003. Shadow Area][116]
@@ -203,7 +203,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   [1008. Card Game][117]
 :   <del>1009. Special Squares</del>
 
-15. [2015-2016 ACM-ICPC Northeastern European Regional Contest (NEERC 15)][104](Sep 04)
+17. [2015-2016 ACM-ICPC Northeastern European Regional Contest (NEERC 15)][104](Sep 04)
 :   <del>A. Adjustment Office</del>
 :   [B. Binary vs Decimal][105]
 :   [C. Cactus Jubilee][106]
@@ -217,7 +217,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   [K. King's Inspection][112]
 :   [L. Landscape Improved][113]
 
-19. [2016 ACM/ICPC Asia Regional Dalian Online][127](Sep 10)
+18. [2016 ACM/ICPC Asia Regional Dalian Online][127](Sep 10)
 :  [1001. Different Circle Permutation][128]
 :  [1002. Different GCD Subarray Query][129]
 :  [1003. Alice's Adventure in Wonderland][130]
@@ -229,7 +229,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  <del>1009. Sparse Graph</del>
 :  <del>1010. Weak Pair</del>
 
-20. [2016 ACM/ICPC Asia Regional Qingdao Online][133](Sep 17)
+19. [2016 ACM/ICPC Asia Regional Qingdao Online][133](Sep 17)
 :  <del>1001. I Count Two Three</del>
 :  <del>1002. Cure</del>
 :  [1003. Family View][134]
@@ -244,7 +244,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1012. Eighty seven][138]
 :  [1013. String][139]
 
-18. [Codeforces Round #372 (Div. 2)][124](Sep 17)
+20. [Codeforces Round #372 (Div. 2)][124](Sep 17)
 :   <del>A. Crazy Computer</del>
 :   <del>B. Complete the Word</del>
 :   <del>C. Plus and Square Root</del>
@@ -304,6 +304,28 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   <del>D Generating Sets</del>
 :   [E Research Rover][167]
 :   [F Cyclic Cipher][168]
+
+26. [Codeforces Round #375 (Div. 2)][169](Oct 3)
+:   <del>A. The New Year: Meeting Friends</del>
+:   <del>B. Text Document Analysis</del>
+:   <del>C. Polycarp at the Radio</del>
+:   <del>D. Lakes in Berland</del>
+:   [E. One-Way Reform][170]
+:   [F. st-Spanning Tree][171]
+
+27. [2016中国大学生程序设计竞赛（长春）-重现赛][172](Oct 4)
+:   [1001. Hanzo vs. Genji][173]
+:   <del>1002. Fraction</del>
+:   [1003. Rotate String][174]
+:   <del>1004. Triangle</del>
+:   [1005. The Fastest Runner Ms. Zhang][175]
+:   <del>1006. Harmonic Value Description</del>
+:   <del>1007. Instability</del>
+:   <del>1008. Sequence I</del>
+:   <del>1009. Sequence II</del>
+:   <del>1010. Ugly Problem</del>
+:   [1011. Binary Indexed Tree][176]
+
 
 ## online judge (individual)
 
@@ -513,6 +535,15 @@ ice: icerupt, myt: myt, mrb: mrbird
 [166]: http://codeforces.com/contest/722
 [167]: http://codeforces.com/contest/722/problem/E
 [168]: http://codeforces.com/contest/722/problem/F
+
+[169]: http://codeforces.com/contest/723
+[170]: http://codeforces.com/contest/723/problem/E
+[171]: http://codeforces.com/contest/723/problem/F
+
+[172]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=728
+[173]: http://acm.hdu.edu.cn/showproblem.php?pid=5911
+[174]: http://acm.hdu.edu.cn/showproblem.php?pid=5913
+[175]: http://acm.hdu.edu.cn/showproblem.php?pid=5921
 
 {% endraw %}
 
