@@ -311,7 +311,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   <del>C. Polycarp at the Radio</del>
 :   <del>D. Lakes in Berland</del>
 :   [E. One-Way Reform][170]
-:   <del>[F. st-Spanning Tree][171]</del> (图轮，并查集 | ice)
+:   <del>[F. st-Spanning Tree][171]</del> (图轮，并查集 \| ice)
 
 27. [2016中国大学生程序设计竞赛（长春）-重现赛][172](Oct 4)
 :   [1001. Hanzo vs. Genji][173]
