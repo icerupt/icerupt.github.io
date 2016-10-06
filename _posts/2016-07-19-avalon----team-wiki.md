@@ -326,6 +326,26 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   <del>1010. Ugly Problem</del>
 :   [1011. Binary Indexed Tree][176]
 
+28. [Hello 2015 (Div.1)][177](Oct 5)
+:   <del>A. LCM Query</del>(lcm 个数不会很多，st 预处理素数的幂次，枚举每个位置二分 | team)
+:   <del>B. ShortestPath Query</del>(维护两个颜色最短路就行 | ice, myt)
+:   <del>C. Subrect Query</del>(单调队列 或 二维st + 梯形轮廓线 | ice, myt)
+:   [D. TROY Query][178]
+:   [E. Palindrome Query][179]
+:   [F. Tree Query][180]
+
+29. [2016CCPC东北地区大学生程序设计竞赛 - 重现赛][181](Oct 6)
+:   <del>1001. Minimum’s Revenge</del>
+:   [1002. Prediction][182]
+:   <del>1003. Mr. Frog’s Problem</del>
+:   <del>1004. Coconuts</del>
+:   <del>1005. Mr. Frog’s Game</del>
+:   <del>1006. Auxiliary Set</del>
+:   [1007. Birthday Gift][183]
+:   <del>1008. Basic Data Structure</del>
+:   [1009. GCD][184]
+:   [1010. Mission Possible][185]
+:   [1011. Backpack on Tree][186]
 
 ## online judge (individual)
 
@@ -545,6 +565,18 @@ ice: icerupt, myt: myt, mrb: mrbird
 [174]: http://acm.hdu.edu.cn/showproblem.php?pid=5913
 [175]: http://acm.hdu.edu.cn/showproblem.php?pid=5915
 [176]: http://acm.hdu.edu.cn/showproblem.php?pid=5921
+
+[177]: http://codeforces.com/gym/100570
+[178]: http://codeforces.com/gym/100570/problem/D
+[179]: http://codeforces.com/gym/100570/problem/E
+[180]: http://codeforces.com/gym/100570/problem/F
+
+[181]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=729
+[182]: http://acm.hdu.edu.cn/showproblem.php?pid=5923
+[183]: http://acm.hdu.edu.cn/showproblem.php?pid=5928
+[184]: http://acm.hdu.edu.cn/showproblem.php?pid=5930
+[185]: http://acm.hdu.edu.cn/showproblem.php?pid=5931
+[186]: http://acm.hdu.edu.cn/showproblem.php?pid=5932
 
 {% endraw %}
 
