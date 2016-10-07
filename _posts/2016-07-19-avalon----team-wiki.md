@@ -336,7 +336,7 @@ ice: icerupt, myt: myt, mrb: mrbird
 
 29. [2016CCPC东北地区大学生程序设计竞赛 - 重现赛][181](Oct 6)
 :   <del>1001. Minimum’s Revenge</del>
-:   [1002. Prediction][182]
+:   <del>[1002. Prediction][182]</del>(树上每个点维护出到根的生成树上的边（改变联通性），然后暴力处理询问 | myt, ice)
 :   <del>1003. Mr. Frog’s Problem</del>
 :   <del>1004. Coconuts</del>
 :   <del>1005. Mr. Frog’s Game</del>
