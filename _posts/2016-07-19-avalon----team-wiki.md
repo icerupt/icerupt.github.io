@@ -347,6 +347,19 @@ ice: icerupt, myt: myt, mrb: mrbird
 :   [1010. Mission Possible][185]
 :   [1011. Backpack on Tree][186]
 
+30. [2016年中国大学生程序设计竞赛（杭州）-重现赛][187](Oct 29)
+:  <del>1001. ArcSoft's Office Rearrangement</del>
+:  <del>1002. Bomb</del>
+:  <del>1003. Car</del>
+:  <del>1004. Difference</del>
+:  [1005. Equation][188]
+:  <del>1006. Four Operations</del>
+:  [1007. Game of Eliminate][189]
+:  [1008. Hazy String][190]
+:  [1009. Inequality][191]
+:  [1010. Just a Math Problem][192]
+:  <del>1011. Kingdom of Obsession</del>
+
 ## online judge (individual)
 
 1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
@@ -577,6 +590,13 @@ ice: icerupt, myt: myt, mrb: mrbird
 [184]: http://acm.hdu.edu.cn/showproblem.php?pid=5930
 [185]: http://acm.hdu.edu.cn/showproblem.php?pid=5931
 [186]: http://acm.hdu.edu.cn/showproblem.php?pid=5932
+
+[187]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=734
+[188]: http://acm.hdu.edu.cn/showproblem.php?pid=5937
+[189]: http://acm.hdu.edu.cn/showproblem.php?pid=5939
+[190]: http://acm.hdu.edu.cn/showproblem.php?pid=5940
+[191]: http://acm.hdu.edu.cn/showproblem.php?pid=5941
+[192]: http://acm.hdu.edu.cn/showproblem.php?pid=5942
 
 {% endraw %}
 
