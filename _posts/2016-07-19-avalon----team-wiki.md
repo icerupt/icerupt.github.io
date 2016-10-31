@@ -360,6 +360,21 @@ ice: icerupt, myt: myt, mrb: mrbird
 :  [1010. Just a Math Problem][192]
 :  <del>1011. Kingdom of Obsession</del>
 
+31. [2016ACM/ICPC亚洲区沈阳站-重现赛][193](Oct 30)
+:   <del>1001. Thickest Burger</del>
+:   <del>1002. Relative atomic mass</del>
+:   <del>1003. Recursive sequence</del>
+:   [1004. Winning an Auction][194]
+:   <del>1005. Counting Cliques</del>
+:   [1006. Similar Rotations][195]
+:   [1007. Do not pour out][196]
+:   [1008. Guessing the Dice Roll][197]
+:   [1009. The Elder][198]
+:   [1010. Query on a graph][199]
+:   [1011. New Signal Decomposition][200]
+:   [1012. A Random Turn Connection Game][201]
+:   [1013. Subsequence][202]
+
 ## online judge (individual)
 
 1. <del>cf-528d. Fuzzy Search</del> (fft \| ice)
@@ -597,6 +612,17 @@ ice: icerupt, myt: myt, mrb: mrbird
 [190]: http://acm.hdu.edu.cn/showproblem.php?pid=5940
 [191]: http://acm.hdu.edu.cn/showproblem.php?pid=5941
 [192]: http://acm.hdu.edu.cn/showproblem.php?pid=5942
+
+[193]: http://acm.hdu.edu.cn/contests/contest_show.php?cid=734
+[194]: http://acm.hdu.edu.cn/showproblem.php?pid=5951
+[195]: http://acm.hdu.edu.cn/showproblem.php?pid=5953
+[196]: http://acm.hdu.edu.cn/showproblem.php?pid=5954
+[197]: http://acm.hdu.edu.cn/showproblem.php?pid=5955
+[198]: http://acm.hdu.edu.cn/showproblem.php?pid=5956
+[199]: http://acm.hdu.edu.cn/showproblem.php?pid=5957
+[200]: http://acm.hdu.edu.cn/showproblem.php?pid=5958
+[201]: http://acm.hdu.edu.cn/showproblem.php?pid=5959
+[202]: http://acm.hdu.edu.cn/showproblem.php?pid=5960
 
 {% endraw %}
 
